@@ -1,6 +1,11 @@
-#EXTINF:0 tvg-id="ext" group-title="Neterland",[NL] NPO 1 HD
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/864
-#EXTINF:0 tvg-id="ext" group-title="Neterland",[NL] NPO 2 HD
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/863
-#EXTINF:0 tvg-id="ext" group-title="Neterland",[NL] NPO 3 HD
-http://live.fauconteam.com:8080/Amigotv_online/gNCQEXF40sC2/862
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Music
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/122
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Drama
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/123
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Khalijiah
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/124
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Clip
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/125
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Classic
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/126
+#EXTINF:0 tvg-id="ext" group-title="Arabic",[AR] Rotana Cinema
