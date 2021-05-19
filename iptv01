@@ -82,3 +82,8 @@ http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42381
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/954
 #EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al 2M Tnt
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42380
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | Das Erste
+http://meu02.cularu.com:8880/live/czw14m2n029/wqas2375/2672.m3u8
