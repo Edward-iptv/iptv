@@ -86,10 +86,4 @@ http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42380
 
 
 #EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | Das Erste
-http://vigilantev.net:80/nightmare/nightmare/655853
-#EXTINF:0 tvg-id="ext" group-title="Duitsland1",DE | Das Erste
-http://vigilantev.net:80/nightmare/nightmare/655854
-#EXTINF:0 tvg-id="ext" group-title="Duitsland2",DE | Das Erste
-http://vigilantev.net:80/nightmare/nightmare/655853
-#EXTINF:0 tvg-id="ext" group-title="Duitsland3",DE | Das Erste
-http://vigilantev.net:80/nightmare/nightmare/655852
+http://romax.live:2086/nomore:live/E4SKdGsEyc/29049
