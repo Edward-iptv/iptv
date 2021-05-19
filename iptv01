@@ -13,6 +13,24 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/11508
 
 
 
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 4 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11513
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 5 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11515
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 7 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11517
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 8 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11519
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Crime 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11520
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Lounge
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11522
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Z 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11527
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al Aoula Inter int
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/955
 #EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al Aoula Tnt
@@ -21,5 +39,4 @@ http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42381
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/954
 #EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al 2M Tnt
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42380
-
 
