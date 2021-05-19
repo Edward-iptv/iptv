@@ -2,13 +2,13 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 1 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11499
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek"NL | NPO 2 
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 2 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11501
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek"NL | NPO 3
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 3
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11504
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek"NL | NPO Nieuws
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO Nieuws
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11507
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek"NL | NPO Politiek
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO Politiek
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11508
 
 
