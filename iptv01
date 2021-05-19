@@ -27,6 +27,22 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/11520
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11522
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Z 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11527
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | SBS6 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11614
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | SBS 9 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11613
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Veronica DisneyXD 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11624
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Net5 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11597\
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | FOX 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11541
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Komedie Centrale 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11561
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Komedie Centraal Extra
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11562
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | TLC 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11621
 
 
 
@@ -39,4 +55,3 @@ http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42381
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/954
 #EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al 2M Tnt
 http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42380
-
