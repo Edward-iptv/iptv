@@ -34,7 +34,7 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/11613
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Veronica DisneyXD 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11624
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Net5 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11596
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11597\
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | FOX 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11541
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Komedie Centrale 
@@ -43,6 +43,33 @@ http://romax.live:2086/nomore:live/E4SKdGsEyc/11561
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11562
 #EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | TLC 
 http://romax.live:2086/nomore:live/E4SKdGsEyc/11621
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 1 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11543
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 2
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11545
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 3
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11546
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 4
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11548
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 5
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11550
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Extreme Sports
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11581
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Extra 1
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11630
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Extra 2
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11629
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Golf 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11632
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Racing 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11633
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Select 
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11635
+#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Voetbal
+http://romax.live:2086/nomore:live/E4SKdGsEyc/11636
 
 
 
