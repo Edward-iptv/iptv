@@ -1,128 +1,3767 @@
-
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 1 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11499
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 2 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11501
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO 3
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11504
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO Nieuws
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11507
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Publiek",NL | NPO Politiek
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11508
+#EXTINF:-1,NL 4MB+ | NPO 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/72622
+#EXTINF:-1,NL 4MB+ | NPO 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49027
+#EXTINF:-1,NL 4MB+ | NPO 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49028
+#EXTINF:-1,NL 4MB+ | RTL 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49029
+#EXTINF:-1,NL 4MB+ | RTL 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49030
+#EXTINF:-1,NL 4MB+ | SBS 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49031
+#EXTINF:-1,NL 4MB+ | RTL 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49032
+#EXTINF:-1,NL 4MB+ | NET 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49033
+#EXTINF:-1,NL 4MB+ | RTL 8
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49034
+#EXTINF:-1,NL 4MB+ | VERONICA/DISNEY XD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49035
+#EXTINF:-1,NL 4MB+ | SBS 9
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49038
+#EXTINF:-1,NL 4MB+ | SPIKE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49042
+#EXTINF:-1,NL 4MB+ | RTL Z
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49043
+#EXTINF:-1,NL 4MB+ | E! ENTERTAINMENT
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49044
+#EXTINF:-1,NL 4MB+ | TLC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49036
+#EXTINF:-1,NL 4MB+ | 24KITCHEN
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49040
+#EXTINF:-1,NL 4MB+ | Fashion TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49046
+#EXTINF:-1,NL 4MB+ | Insight
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/132414
+#EXTINF:-1,NL 4MB+ | FOX
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49047
+#EXTINF:-1,NL 4MB+ | DISCOVERY
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49048
+#EXTINF:-1,NL 4MB+ | History HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/60378
+#EXTINF:-1,NL 4MB+ | ANIMAL PLANET
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49050
+#EXTINF:-1,NL 4MB+ | NAT GEOGRAPHIC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49051
+#EXTINF:-1,NL 4MB+ | NAT GEOGRAPHIC WILD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49053
+#EXTINF:-1,NL 4MB+ | DISCOVERY SCIENCE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49055
+#EXTINF:-1,NL 4MB+ | CRIME & INVESTIGATION
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49063
+#EXTINF:-1,NL 4MB+ | RTL LOUNGE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49059
+#EXTINF:-1,NL 4MB+ | RTL CRIME
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49060
+#EXTINF:-1,NL 4MB+ | BOOMERANG
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49061
+#EXTINF:-1,NL 4MB+ | CARTOON NETWORK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49065
+#EXTINF:-1,NL 4MB+ | DISNEY CHANNEL
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49066
+#EXTINF:-1,NL 4MB+ | NICK TOONS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49069
+#EXTINF:-1,NL 4MB+ | NICKELODEON
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49070
+#EXTINF:-1,NL 4MB+ | PEBBLE TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49071
+#EXTINF:-1,NL 4MB+ | RTL TELEKIDS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49072
+#EXTINF:-1,NL 4MB+ | SHORTS TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49073
+#EXTINF:-1,NL 4MB+ | ONS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49084
+#EXTINF:-1,NL 4MB+ | NPO NIEUWS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49085
+#EXTINF:-1,NL 4MB+ | FAMILY 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49086
+#EXTINF:-1,NL 4MB+ | Discovery ID
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49088
+#EXTINF:-1,NL 4MB+ | LOVE NATURE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49089
+#EXTINF:-1,NL 4MB+ | BBC FIRST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49090
+#EXTINF:-1,NL 4MB+ | TV 538
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49092
+#EXTINF:-1,NL 4MB+ | XITE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49093
+#EXTINF:-1,NL 4MB+ | TV OOST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49094
+#EXTINF:-1,NL 4MB+ | NPO 1 EXTRA
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49095
+#EXTINF:-1,NL 4MB+ | GO-TV HD (Terneuzen)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49098
+#EXTINF:-1,NLSD | Podium.TV 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49100
+#EXTINF:-1,NLSD | Podium TV 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49101
+#EXTINF:-1,NL 4MB+ | COMEDY CENTRAL EXTRA
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49102
+#EXTINF:-1,NL 4MB+ | COMEDY CENTRAL
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49103
+#EXTINF:-1,NL 4MB+ | NPO POLITIEK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49105
+#EXTINF:-1,NL 4MB+ | RTV DRENTHE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49106
+#EXTINF:-1,NL 4MB+ | BABY TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49157
+#EXTINF:-1,NL 4MB+ | BOOMERANG
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49158
+#EXTINF:-1,NL 4MB+ | KETNET
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49159
+#EXTINF:-1,NL 4MB+ | NICK JR.
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49160
+#EXTINF:-1,NL 4MB+ | NICK MUSIC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49161
+#EXTINF:-1,NL 4MB+ | NPO ZAPPELIN XTRA / NPO BEST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49163
+#EXTINF:-1,NL 4MB+ | FILM 1 PREMIERE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49153
+#EXTINF:-1,NL 4MB+ | FILM 1 ACTION
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49154
+#EXTINF:-1,NL 4MB+ | FILM 1 FAMILY
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49155
+#EXTINF:-1,NL 4MB+ | FILM 1 DRAMA
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49156
+#EXTINF:-1,NL 4MB+ | REDBOX CONCERT
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49134
+#EXTINF:-1,NL 4MB+ | REDBOX NIEUWE FILMS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49135
+#EXTINF:-1,NL 4MB+ | REDBOX ACTIE 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49136
+#EXTINF:-1,NL 4MB+ | REDBOX ACTIE 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49137
+#EXTINF:-1,NL 4MB+ | REDBOX ACTIE 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49138
+#EXTINF:-1,NL 4MB+ | REDBOX ANIMATIE 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49139
+#EXTINF:-1,NL 4MB+ | REDBOX ANIMATIE 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49140
+#EXTINF:-1,NL 4MB+ | REDBOX ANIMATIE 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49141
+#EXTINF:-1,NL 4MB+ | REDBOX DRAMA 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49142
+#EXTINF:-1,NL 4MB+ | REDBOX DRAMA 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49143
+#EXTINF:-1,NL 4MB+ | REDBOX HORROR 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49144
+#EXTINF:-1,NL 4MB+ | REDBOX HORROR 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49145
+#EXTINF:-1,NL 4MB+ | REDBOX KOMEDIE 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49146
+#EXTINF:-1,NL 4MB+ | REDBOX SCI FI 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49147
+#EXTINF:-1,NL 4MB+ | REDBOX SCI FI 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49148
+#EXTINF:-1,NL 4MB+ | REDBOX TEKEN FILM
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49149
+#EXTINF:-1,NL 4MB+ | REDBOX THRILLER 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49150
+#EXTINF:-1,NL 4MB+ | REDBOX THRILLER 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49151
+#EXTINF:-1,NL 4MB+ | REDBOX THRILLER 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49152
+#EXTINF:-1,NL 4MB+ | REDBOX 4K
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/144984
+#EXTINF:-1,NL 4MB+ | REDBOX DOCU
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/144994
+#EXTINF:-1,NL 4MB+ | REDBOX FAMILY
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/144995
+#EXTINF:-1,NL 4MB+ | REDBOX KOMEDIE 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/144998
+#EXTINF:-1,NL 4MB+ | REDBOX KOMEDIE 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/144999
+#EXTINF:-1,NL 4MB+ | REDBOX CABARET
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145005
+#EXTINF:-1,NL 4MB+ | ESPN 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49107
+#EXTINF:-1,NL 2MB+ | ESPN 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179576
+#EXTINF:-1,NL 4MB+ | ESPN 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49108
+#EXTINF:-1,NL 2MB+ | ESPN 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179577
+#EXTINF:-1,NL 4MB+ | ESPN 3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49109
+#EXTINF:-1,NL 2MB+ | ESPN 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179578
+#EXTINF:-1,NL 4MB+ | ESPN 4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49110
+#EXTINF:-1,NL 2MB+ | ESPN 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179579
+#EXTINF:-1,NL 4MB+ | ESPN 5 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49111
+#EXTINF:-1,NL 2MB+ | ESPN 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179580
+#EXTINF:-1,NL 4MB+ | ESPN 6 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49112
+#EXTINF:-1,NL 2MB+ | ESPN 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179581
+#EXTINF:-1,NL 4MB+ | ZIGGO SPORT SELECT HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49113
+#EXTINF:-1,NL 2MB+ | Ziggo Select
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179570
+#EXTINF:-1,NL 4MB+ | ZIGGO VOETBAL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49114
+#EXTINF:-1,NL 2MB+ | Ziggo Voetbal
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179571
+#EXTINF:-1,NL 4MB+ | ZIGGO RACING HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49115
+#EXTINF:-1,NL 2MB+ | Ziggo Racing
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179572
+#EXTINF:-1,NL 4MB+ | ZIGGO SPORT GOLF HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49116
+#EXTINF:-1,NL 2MB+ | Ziggo Golf
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179573
+#EXTINF:-1,NL 4MB+ | ZIGGO DOCU HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49117
+#EXTINF:-1,NL 2MB+ | Ziggo Docu
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179574
+#EXTINF:-1,NL 4MB+ | ZIGGO TENNIS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49118
+#EXTINF:-1,NL 2MB+ | Ziggo Tennis
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179575
+#EXTINF:-1,NL 4MB+ | AT5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49166
+#EXTINF:-1,NL 4MB+ | L1MBURG
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49167
+#EXTINF:-1,NL 4MB+ | RTV UTRECHT
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49170
+#EXTINF:-1,NL 4MB+ | TV WEST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49171
+#EXTINF:-1,NL 4MB+ | TV OOST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49172
+#EXTINF:-1,NL 4MB+ | TV NOORD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49173
+#EXTINF:-1,NL 4MB+ | TV GELDERLAND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49174
+#EXTINF:-1,NL 4MB+ | TV DRENTHE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49175
+#EXTINF:-1,NL 4MB+ | OMROEP BRABANT HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49176
+#EXTINF:-1,NL 4MB+ | OMROEP FLEVOLAND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49177
+#EXTINF:-1,NL 4MB+ | OMROEP FRYSLAN
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49178
+#EXTINF:-1,NL 4MB+ | OMROEP ZEELAND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49179
+#EXTINF:-1,NL 4MB+ | TV RIJNMOND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49180
+#EXTINF:-1,NL 4MB+ | TV Noord-Holland
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49182
+#EXTINF:-1,BING ( NL Gesproken )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57278
+#EXTINF:-1,44 Cats
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57279
+#EXTINF:-1,Oscar
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57280
+#EXTINF:-1,Pieter Konijn
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57428
+#EXTINF:-1,Juf Roos
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57538
+#EXTINF:-1,Casper & Emma
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57539
+#EXTINF:-1,Sprookjesboom ( Efteling )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57541
+#EXTINF:-1,Masha & De Beer
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57542
+#EXTINF:-1,Bassie & Adriaan
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58453
+#EXTINF:-1,BOBO
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58461
+#EXTINF:-1,De Smurfen
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/60329
+#EXTINF:-1,Boes Boes
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/60330
+#EXTINF:-1,Peppa Pig
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61027
+#EXTINF:-1,Het Huis van Anubis
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61101
+#EXTINF:-1,Kong : Koning van de Apen
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61102
+#EXTINF:-1,Pokemon 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61103
+#EXTINF:-1,Pokemon 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61104
+#EXTINF:-1,Pokemon 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61105
+#EXTINF:-1,Pokemon 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61106
+#EXTINF:-1,Pippi Langkous
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/64837
+#EXTINF:-1,Knightrider | ( NL SUBS )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/57329
+#EXTINF:-1,Friends | Season 1 to 5 ( NL SUBS )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58685
+#EXTINF:-1,Friends | Season 6 to 10 ( NL SUBS )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58686
+#EXTINF:-1,The Dukes Of Hazzard ( NL SUBS )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/64614
+#EXTINF:-1,The A-Team ( NL SUBS )
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/64615
+#EXTINF:-1,Muziek NL 24/7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/61961
+#EXTINF:-1,NL 4MB+ | Bios Premiere HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139004
+#EXTINF:-1,NL 4MB+ | Bios Action HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139005
+#EXTINF:-1,NL 4MB+ | Bios Drama HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139006
+#EXTINF:-1,NL 4MB+ | Bios Family HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139007
+#EXTINF:-1,Buurman & Buurman
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139008
+#EXTINF:-1,Thomas De Trein
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/139009
+#EXTINF:-1,NL 4MB+ | SHAUN THE SHEEP
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145007
+#EXTINF:-1,NL 4MB+ | BUURMAN EN BUURMAN
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145008
+#EXTINF:-1,NL 4MB+ | HELDEN V/D STAD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145009
+#EXTINF:-1,NL 4MB+ | PEPPA PiG
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145011
+#EXTINF:-1,NL 4MB+ | BRANDWEERMAN SAM
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145010
+#EXTINF:-1,NL 4MB+ | 100% NL
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49074
+#EXTINF:-1,NL 4MB+ | 192 TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49076
+#EXTINF:-1,NL 4MB+ | Mezzo
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/132415
+#EXTINF:-1,NL 4MB+ | TV ORANJE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49080
+#EXTINF:-1,NL 4MB+ | VH1 CLASSIC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49081
+#EXTINF:-1,NL 4MB+ | MTV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/79496
+#EXTINF:-1,NL 4MB+ | MTV MUSIC 24
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49082
+#EXTINF:-1,NL 4MB+ | MTV BRAND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49083
+#EXTINF:-1,NL 4MB+ | Stingray Djazz HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49077
+#EXTINF:-1,NL 4MB+ | STINGRAY DJAZZ
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49078
+#EXTINF:-1,NL HD+ | Stingray Hit List
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151800
+#EXTINF:-1,NL HD+ | Stingray Classic Rock
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151801
+#EXTINF:-1,NL HD+ | Stingray Rock Alternative
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151802
+#EXTINF:-1,NL HD+ | Stingray Pop Adult
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151803
+#EXTINF:-1,NL HD+ | Stingray Urban Beat
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151804
+#EXTINF:-1,NL HD+ | Stingray Hot Country
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151805
+#EXTINF:-1,NL HD+ | Stingray Flashback 70s
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151806
+#EXTINF:-1,NL HD+ | Stingray Today's Latin Pop
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151807
+#EXTINF:-1,Glory PPV 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/136588
+#EXTINF:-1,Glory PPV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/136587
+#EXTINF:-1,NL 4MB+ | Zoetermeer FM TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/164229
+#EXTINF:-1,NL 4MB+ | Docu+
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179329
+#EXTINF:-1,NL 4MB+ | Dance Trippin HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179330
+#EXTINF:-1,NL 4MB+ | JBO Orange
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179331
+#EXTINF:-1,NL 4MB+ | JBO Classics Hits
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179332
+#EXTINF:-1,NL 4MB+ | JBO Dance
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179333
+#EXTINF:-1,NL 4MB+ | JBO Pop
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179334
+#EXTINF:-1,NL 4MB+ | JBO Rap
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179335
+#EXTINF:-1,NL 4MB+ | JBO Concert
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179336
+#EXTINF:-1,NL 4MB+ | JBO Cartoons
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179337
+#EXTINF:-1,NL 4MB+ | JBO Disney
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179338
+#EXTINF:-1,NL 4MB+ | JBO Kids Studio
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179339
+#EXTINF:-1,NL 4MB+ | Duck TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179340
+#EXTINF:-1,NL 4MB+ | JBO 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179341
+#EXTINF:-1,NL 4MB+ | JBO 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179342
+#EXTINF:-1,NL 4MB+ | JBO 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179343
+#EXTINF:-1,NL 4MB+ | JBO 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179344
+#EXTINF:-1,NL 4MB+ | JBO 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179345
+#EXTINF:-1,NL 4MB+ | JBO 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179346
+#EXTINF:-1,NL 4MB+ | JBO Classic Movies
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179347
+#EXTINF:-1,NL 4MB+ | RTV 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179348
+#EXTINF:-1,NL 4MB+ | VH1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179392
+#EXTINF:-1,NL 4MB+ | iConcerts HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179403
+#EXTINF:-1,NL 4MB+ | NPO 2 Extra
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179439
+#EXTINF:-1,NL 4MB+ | MyZen HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179483
+#EXTINF:-1,NL 4MB+ | BBC Entertainment
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179484
+#EXTINF:-1,NL 4MB+ | Horse & Country
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179485
+#EXTINF:-1,NL 4MB+ | Slam!TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/179486
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 4 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11513
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 5 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11515
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 7 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11517
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL 8 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11519
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Crime 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11520
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Lounge
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11522
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | RTL Z 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11527
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | SBS6 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11614
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | SBS 9 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11613
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Veronica DisneyXD 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11624
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Net5 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11597\
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | FOX 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11541
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Komedie Centrale 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11561
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | Komedie Centraal Extra
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11562
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | TLC 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11621
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Commercieel",NL | NL:Spike 
-http://meu02.cularu.com:8880/live/czw14m2n029/wqas2375/31367.m3u8
+
+#EXTINF:-1,BE | EEN HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49183
+#EXTINF:-1,BE | Canvas HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49184
+#EXTINF:-1,BE | VTM 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/60419
+#EXTINF:-1,BE | VTM 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49191
+#EXTINF:-1,BE | VTM 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49192
+#EXTINF:-1,BE | VTM 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49189
+#EXTINF:-1,BE | VIER HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49186
+#EXTINF:-1,BE | VIJF
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49187
+#EXTINF:-1,BE | ZES
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49188
+#EXTINF:-1,BE | LA UNE HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49198
+#EXTINF:-1,BE | Tipik HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49199
+#EXTINF:-1,BE | AB3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49200
+#EXTINF:-1,BE | CLUB RTL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49201
+#EXTINF:-1,BE | PLUG RTL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49202
+#EXTINF:-1,BE | RTL TVI HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49203
+#EXTINF:-1,BE | LA TROIS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49204
+#EXTINF:-1,BE | ATV Antwerpen HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151285
+#EXTINF:-1,BE | Caz 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151286
+#EXTINF:-1,BE | Ketnet
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151287
+#EXTINF:-1,BE | Eclipse TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151288
+#EXTINF:-1,BE | KetOp12
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151289
+#EXTINF:-1,BE | Ketnet Junior
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151290
+#EXTINF:-1,BE | AB1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151291
+#EXTINF:-1,BE | LN24
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151292
+#EXTINF:-1,BE | BX1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151293
+#EXTINF:-1,BE | Canal C
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151294
+#EXTINF:-1,BE | Matele
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151295
+#EXTINF:-1,BE | No Tele
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151296
+#EXTINF:-1,BE | NRJ Hits
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151297
+#EXTINF:-1,BE | BE CINE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151299
+#EXTINF:-1,BE | BE Series HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151300
+#EXTINF:-1,BE | AbxPlore HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151302
+#EXTINF:-1,BE | Dobbit TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151303
+#EXTINF:-1,BE | Bel RTL
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151307
+#EXTINF:-1,BE | RTL Luxembourg
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/151308
+#EXTINF:-1,BE | Studio 100 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/160787
+#EXTINF:-1,BE | RTL Luxembourg
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/160788
+#EXTINF:-1,BE | TV Limburg
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/187226
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 1 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11543
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 2
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11545
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 3
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11546
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 4
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11548
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 5
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11550
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | ESPN 6 HD
-http://meu02.cularu.com:8880/live/czw14m2n029/wqas2375/31420.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Extreme Sports
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11581
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Extra 1
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11630
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Extra 2
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11629
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Golf 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11632
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Racing 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11633
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Select 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11635
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Sport",NL | Ziggo Sport Voetbal
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11636
+#EXTINF:-1,DE: DAS ERSTE FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/28316
+#EXTINF:-1,DE: DAS ERSTE HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/61826
+#EXTINF:-1,DE: DAS ERSTE SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/61825
+#EXTINF:-1,DE: ZDF FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/61828
+#EXTINF:-1,DE: ZDF HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1804
+#EXTINF:-1,DE: ZDF SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/61827
+#EXTINF:-1,DE: ZDF NEO HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1805
+#EXTINF:-1,DE: ZDF INFO
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/13259
+#EXTINF:-1,DE: ZDF INFO backup
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102824
+#EXTINF:-1,DE: RTL Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49528
+#EXTINF:-1,DE: RTL FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1811
+#EXTINF:-1,DE: RTL HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1806
+#EXTINF:-1,DE: RTL SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/62010
+#EXTINF:-1,DE: RTL 2 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49529
+#EXTINF:-1,DE: RTL 2 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1807
+#EXTINF:-1,DE: RTL 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1814
+#EXTINF:-1,DE: RTL 2 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/62012
+#EXTINF:-1,DE: Pro 7 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49527
+#EXTINF:-1,DE: Pro 7 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1815
+#EXTINF:-1,DE: Pro 7 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1817
+#EXTINF:-1,DE: Pro 7 Maxx FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49200
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1816
+#EXTINF:-1,DE: Pro 7 Fun FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49202
+#EXTINF:-1,DE: Pro 7 Fun HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1818
+#EXTINF:-1,DE: SAT 1 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48745
+#EXTINF:-1,DE: SAT 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1820
+#EXTINF:-1,DE: Sat 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49191
+#EXTINF:-1,DE: Sat 1 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/61919
+#EXTINF:-1,DE: Sat 1 Gold FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49192
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1821
+#EXTINF:-1,DE: SAT 1 Emotions
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/51185
+#EXTINF:-1,DE: VOX FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1823
+#EXTINF:-1,DE: VOX HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1824
+#EXTINF:-1,DE: Vox Up
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38359
+#EXTINF:-1,DE: Kabel 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49203
+#EXTINF:-1,DE: Kabel 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1826
+#EXTINF:-1,DE: Kabel 1 Classics 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82750
+#EXTINF:-1,DE: Kabel 1 Classics HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82751
+#EXTINF:-1,DE: RTL NITRO FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48835
+#EXTINF:-1,DE: RTL NITRO HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1809
+#EXTINF:-1,DE: RTL Passion FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49201
+#EXTINF:-1,DE: RTL PASSION HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1813
+#EXTINF:-1,DE: RTL Living FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49199
+#EXTINF:-1,DE: RTL Living HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1812
+#EXTINF:-1,DE: RTL PLUS
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67324
+#EXTINF:-1,DE: TLC HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/7234
+#EXTINF:-1,DE: Sixx FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1825
+#EXTINF:-1,DE: Sixx HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49204
+#EXTINF:-1,DE: ANIXE HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38367
+#EXTINF:-1,DE: ANIXE Serie
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38366
+#EXTINF:-1,DE: Arte FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49205
+#EXTINF:-1,DE: Arte HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1828
+#EXTINF:-1,DE: E! Entertainment HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2511
+#EXTINF:-1,DE: Heimatkanal
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33003
+#EXTINF:-1,DE: ROMANCE TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33001
+#EXTINF:-1,DE: 3Sat HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/24226
+#EXTINF:-1,DE: MDR
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33022
+#EXTINF:-1,DE: SWR
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/24680
+#EXTINF:-1,DE: NDR
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/24682
+#EXTINF:-1,DE: RBB
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/24683
+#EXTINF:-1,DE: rbb Brandenburg
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67336
+#EXTINF:-1,DE: BR HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33024
+#EXTINF:-1,DE: Sonneklar TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38362
+#EXTINF:-1,DE: SERVUS Tv
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67325
+#EXTINF:-1,DE: One FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67327
+#EXTINF:-1,DE: ATV FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67328
+#EXTINF:-1,DE: ATV 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67329
+#EXTINF:-1,DE: MUNCHEN TV FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67330
+#EXTINF:-1,DE: Baden Tv HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67331
+#EXTINF:-1,DE: HGTV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67332
+#EXTINF:-1,DE: Health tv HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67333
+#EXTINF:-1,DE: Bibel TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71583
+#EXTINF:-1,DE: Bibel TV HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67334
+#EXTINF:-1,DE: K-TV HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67335
+#EXTINF:-1,DE: BR Fernsehen Nord
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67337
+#EXTINF:-1,DE: hr-fernsehen
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67338
+#EXTINF:-1,DE: 123 TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67341
+#EXTINF:-1,DE: OK Wernigerode
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67342
+#EXTINF:-1,DE: ISAR TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67343
+#EXTINF:-1,DE: TRP 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67345
+#EXTINF:-1,DE: NOA 4 HAMBURG FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67346
+#EXTINF:-1,DE: QVC
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67339
+#EXTINF:-1,DE: QVC Beauty & Style
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67340
+#EXTINF:-1,▃ ▅ ▆ █ GERMANY SPORT █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2238
+#EXTINF:-1,DE: DAZN 1 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48746
+#EXTINF:-1,DE: DAZN 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2244
+#EXTINF:-1,DE: DAZN 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2243
+#EXTINF:-1,DE: DAZN 2 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102861
+#EXTINF:-1,DE: DAZN 2 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2246
+#EXTINF:-1,DE: DAZN 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2245
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2239
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/50448
+#EXTINF:-1,DE: Sky Sport 1 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67362
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2240
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/50449
+#EXTINF:-1,DE: Sky Sport 2 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67363
+#EXTINF:-1,DE: Sky Sport News HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2263
+#EXTINF:-1,DE: Sky Sport News FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2264
+#EXTINF:-1,DE: Sky Sport F1 Vip
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/100937
+#EXTINF:-1,DE: Sky Sport F1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/100935
+#EXTINF:-1,DE: Sky Sport F1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/100936
+#EXTINF:-1,DE: Sky Bundesliga 1 UHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/83110
+#EXTINF:-1,DE: Sky Bundesliga 1 FEED
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/83109
+#EXTINF:-1,DE: Bndliga 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67397
+#EXTINF:-1,DE: Bndliga 1 HD 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2247
+#EXTINF:-1,DE: Bndliga 1 HD*
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67398
+#EXTINF:-1,DE: Bndliga 1 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67399
+#EXTINF:-1,DE: Bndliga 2 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67400
+#EXTINF:-1,DE: Bndliga 2 HD 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2248
+#EXTINF:-1,DE: Bndliga 2 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67401
+#EXTINF:-1,DE: Bndliga 3 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67402
+#EXTINF:-1,DE: Bndliga 3 HD 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2249
+#EXTINF:-1,DE: Bndliga 3 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67403
+#EXTINF:-1,DE: Bndliga 4 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67404
+#EXTINF:-1,DE: Bndliga 4 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2250
+#EXTINF:-1,DE: Bndliga 4 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67405
+#EXTINF:-1,DE: Bndliga 5 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67406
+#EXTINF:-1,DE:  Bndliga 5 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2251
+#EXTINF:-1,DE: Bndliga 5 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67407
+#EXTINF:-1,DE: Bndliga 6 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67408
+#EXTINF:-1,DE: Bndliga 6 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2252
+#EXTINF:-1,DE: Bndliga 6 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67409
+#EXTINF:-1,DE: Bndliga 7 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67410
+#EXTINF:-1,DE: Bndliga 7 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2253
+#EXTINF:-1,DE: Bndliga 7 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67411
+#EXTINF:-1,DE: Bndliga 8 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67412
+#EXTINF:-1,DE: Bndliga 8 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2254
+#EXTINF:-1,DE: Bndliga 8 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67413
+#EXTINF:-1,DE: Bndliga 9 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67414
+#EXTINF:-1,DE: Bndliga 9 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2255
+#EXTINF:-1,DE: Bndliga 9 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67415
+#EXTINF:-1,DE: Bndliga 10 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67416
+#EXTINF:-1,DE: Bndliga 10 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/27136
+#EXTINF:-1,DE: Bndliga 10 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67417
+#EXTINF:-1,DE: Sky Sport 3 FHD  (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2241
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67364
+#EXTINF:-1,DE: Sky Sport 3 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67365
+#EXTINF:-1,DE: Sky Sport 4 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67366
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67367
+#EXTINF:-1,DE: Sky Sport 4 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67368
+#EXTINF:-1,DE: Sky Sport 4 (Match Time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29948
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67369
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67370
+#EXTINF:-1,DE: Sky Sport 5 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67371
+#EXTINF:-1,DE: Sky Sport 5 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29949
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67372
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67373
+#EXTINF:-1,DE: Sky Sport 6 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67374
+#EXTINF:-1,DE: Sky Sport 6 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29950
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67375
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67376
+#EXTINF:-1,DE: Sky Sport 7 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67377
+#EXTINF:-1,DE: Sky Sport 7 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29951
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67378
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67379
+#EXTINF:-1,DE: Sky Sport 8 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67380
+#EXTINF:-1,DE: Sky Sport 8 match time
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29952
+#EXTINF:-1,DE: Sky Sport 9 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67381
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67382
+#EXTINF:-1,DE: Sky Sport 9 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67383
+#EXTINF:-1,DE: Sky Sport 9 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29953
+#EXTINF:-1,DE: Sky Sport 10 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67384
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67385
+#EXTINF:-1,DE: Sky Sport 10 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67386
+#EXTINF:-1,DE: Sky Sport 10 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29954
+#EXTINF:-1,DE: Sky Sport 11 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67387
+#EXTINF:-1,DE: Sky Sport 11 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67388
+#EXTINF:-1,DE: Sky Sport 11 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67389
+#EXTINF:-1,DE: Sky Sport 11 (match time)
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29955
+#EXTINF:-1,DE: Sky Sport 12 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67390
+#EXTINF:-1,DE: Sky Sport 12 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67391
+#EXTINF:-1,DE: Sky Sport 13 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67392
+#EXTINF:-1,DE: Sky Sport 13 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67393
+#EXTINF:-1,DE: Sky Sport 14 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67394
+#EXTINF:-1,DE: Sky Sport 14 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67395
+#EXTINF:-1,DE: eSports 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67422
+#EXTINF:-1,DE: sport1+ FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67423
+#EXTINF:-1,DE: Sport 1+ HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/12930
+#EXTINF:-1,DE: sport1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67424
+#EXTINF:-1,DE: Sport 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2260
+#EXTINF:-1,DE: sport1 SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67425
+#EXTINF:-1,DE: Sport Digital HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2262
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67426
+#EXTINF:-1,DE: Motorvision TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2265
+#EXTINF:-1,DE: Telekom - FC Bayern TV Full HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2268
+#EXTINF:-1,DE: Telekom - Frauen Bndliga HD 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2269
+#EXTINF:-1,DE: Telekom Fussball 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2277
+#EXTINF:-1,DE: Telekom Fussball 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2278
+#EXTINF:-1,DE: Telekom Fussball 3 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2279
+#EXTINF:-1,DE: Telekom Fussball 4 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2280
+#EXTINF:-1,DE: Telekom Fussball 5 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2281
+#EXTINF:-1,DE: Telekom Fussball 6 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2282
+#EXTINF:-1,DE: Telekom Fussball 8 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2283
+#EXTINF:-1,DE: Telekom Fussball 7 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2284
+#EXTINF:-1,DE: Telekom BBL Sport 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2285
+#EXTINF:-1,DE: Telekom BBL Sport 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2286
+#EXTINF:-1,DE: Telekom BBL Sport 3
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2288
+#EXTINF:-1,DE: Telekom - DEL Sport 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2270
+#EXTINF:-1,DE: Telekom - DEL Sport 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2271
+#EXTINF:-1,DE: Telekom - DEL Sport 3
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2272
+#EXTINF:-1,DE: Telekom - DEL Sport 4
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2273
+#EXTINF:-1,DE: Telekom - DEL Sport 5
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2274
+#EXTINF:-1,DE: Telekom - DEL Sport 6
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2275
+#EXTINF:-1,▃ ▅ ▆ █ NACHRICHTEN █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67323
+#EXTINF:-1,DE: n-tv FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67347
+#EXTINF:-1,DE: n-tv HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1829
+#EXTINF:-1,DE: n-tv SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67348
+#EXTINF:-1,DE: DW Deutsch
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/104343
+#EXTINF:-1,DE: WDR HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/104349
+#EXTINF:-1,DE: WDR SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29306
+#EXTINF:-1,DE: WELT FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67349
+#EXTINF:-1,DE: Welt HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2479
+#EXTINF:-1,DE: WELT SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67350
+#EXTINF:-1,DE: Phoenix FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67351
+#EXTINF:-1,DE: PHOENIX HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1830
+#EXTINF:-1,DE: Phoenix SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67352
+#EXTINF:-1,DE: Der Aktionär TV HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67353
+#EXTINF:-1,DE: tagesschau 24 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67354
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33528
+#EXTINF:-1,▃ ▅ ▆ █ GERMANY DOKU █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2467
+#EXTINF:-1,DE: Geo Television HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86711
+#EXTINF:-1,DE: DOXX (planet) HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86717
+#EXTINF:-1,DE: Nat Geo FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2468
+#EXTINF:-1,DE: Nat Geo HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2469
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2470
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2471
+#EXTINF:-1,DE: Discovery FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2472
+#EXTINF:-1,DE: Discovery HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2473
+#EXTINF:-1,DE: Sky Crime FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102880
+#EXTINF:-1,DE: Sky Crime HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102881
+#EXTINF:-1,DE: Crime + Investigation
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2483
+#EXTINF:-1,DE: ANIMAL PLANET HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34448
+#EXTINF:-1,DE: History FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2474
+#EXTINF:-1,DE: History HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2475
+#EXTINF:-1,DE: DMAX FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48851
+#EXTINF:-1,DE: DMAX HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2476
+#EXTINF:-1,DE: HT Select DOKU
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77730
+#EXTINF:-1,DE: Primitive Tech 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71074
+#EXTINF:-1,DE: Die Sanierung 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71072
+#EXTINF:-1,DE: kabel 1 Doku HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2480
+#EXTINF:-1,DE: N24 DOKU HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2481
+#EXTINF:-1,DE: N24 DOKU  SD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2482
+#EXTINF:-1,DE: Welt der Wunder
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2484
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2485
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2486
+#EXTINF:-1,DE: Bon Gusto HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34407
+#EXTINF:-1,DE: Waidwerk TV
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102051
+#EXTINF:-1,▃ ▅ ▆ █ GERMANY MUSIC █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67316
+#EXTINF:-1,DE: MTV HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1834
+#EXTINF:-1,DE: MTV FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67358
+#EXTINF:-1,DE: MTV Music 24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2510
+#EXTINF:-1,DE: MTV Dance
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67357
+#EXTINF:-1,DE: Jukebox
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2512
+#EXTINF:-1,DE: Stingray Classica
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38368
+#EXTINF:-1,DE: Deutsches Musik Fernsehen HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67355
+#EXTINF:-1,DE: XITE
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67356
+#EXTINF:-1,DE: Krone Hit TV FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/67359
+#EXTINF:-1,DE: Deluxe Music HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1835
+#EXTINF:-1,DE: SCHLAGER DELUXE
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/104360
+#EXTINF:-1,▃ ▅ ▆ █ GERMANY KINO █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2293
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49160
+#EXTINF:-1,DE: Sky Cinema Thriller FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49161
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49182
+#EXTINF:-1,DE: Sky Cinema Premieren +24 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2299
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2297
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2296
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49185
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2300
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49180
+#EXTINF:-1,DE: Sky Cinema Premieren FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49181
+#EXTINF:-1,DE: Sky Cinema Best Of HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49184
+#EXTINF:-1,DE: Sky Cinema Best Of FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48857
+#EXTINF:-1,DE: Sky Cinema Special HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49183
+#EXTINF:-1,DE: Sky Cinema Special FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48858
+#EXTINF:-1,DE: Sky Cinema FUN HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48856
+#EXTINF:-1,DE: Sky Cinema FUN FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49187
+#EXTINF:-1,DE: Sky Serien & Shows HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54756
+#EXTINF:-1,DE: Sky Serien & Shows FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54757
+#EXTINF:-1,DE: Sky Cinema Classics
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49188
+#EXTINF:-1,DE: Sky Cinema 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54758
+#EXTINF:-1,DE: Sky Cinema  1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2295
+#EXTINF:-1,DE: Sky Atlantic HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2307
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49190
+#EXTINF:-1,DE: Sky Krimi HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2308
+#EXTINF:-1,DE: Sky Krimi FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49189
+#EXTINF:-1,DE: Sky Hits FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2298
+#EXTINF:-1,DE: Sky Emotion HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2302
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2303
+#EXTINF:-1,DE: Sky Comedy FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102882
+#EXTINF:-1,DE: Sky Comedy HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102883
+#EXTINF:-1,DE: RTL Crime HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2318
+#EXTINF:-1,DE: TNT Comedy HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2305
+#EXTINF:-1,DE: TNT Comedy FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2314
+#EXTINF:-1,DE: TNT Film HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2313
+#EXTINF:-1,DE: TNT Film FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/49186
+#EXTINF:-1,DE: TNT Serie HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54759
+#EXTINF:-1,DE: TNT Serie FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2315
+#EXTINF:-1,DE: FOX HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54760
+#EXTINF:-1,DE: FOX FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33849
+#EXTINF:-1,DE: 13th Street HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2320
+#EXTINF:-1,DE: 13th Street FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54761
+#EXTINF:-1,DE: Syfy HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/53294
+#EXTINF:-1,DE: Syfy FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2312
+#EXTINF:-1,DE:  Universal HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2306
+#EXTINF:-1,DE: Universal FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/54762
+#EXTINF:-1,DE: Silverline
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/18253
+#EXTINF:-1,DE: Kinowelt Tv
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2266
+#EXTINF:-1,DE: TELE 5
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82937
+#EXTINF:-1,DE: SONY AXN
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2310
+#EXTINF:-1,DE: Sky ONE HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38948
+#EXTINF:-1,DE: SONY CHANNEL
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/29347
+#EXTINF:-1,DE: HT SELECT PRIME
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77721
+#EXTINF:-1,DE: HT SELECT PLATIN
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77722
+#EXTINF:-1,DE: HT SELECT HORROR
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77723
+#EXTINF:-1,DE: HT SELECT ACTION
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77724
+#EXTINF:-1,DE: HT SELECT THRILLER
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77725
+#EXTINF:-1,DE: HT SELECT  SCI-FI
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77726
+#EXTINF:-1,DE: HT SELECT CINEDOM
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77727
+#EXTINF:-1,DE: HT SELECT GOLD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77728
+#EXTINF:-1,DE: HT SELECT RETRO
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/77729
+#EXTINF:-1,DE: Moviesinema 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/46042
+#EXTINF:-1,DE: MAGIC BOX KINO 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/46047
+#EXTINF:-1,DE: POPCORN SELECT 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/16856
+#EXTINF:-1,DE: POPCORN SELECT 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/16857
+#EXTINF:-1,DE: POPCORN SELECT 3
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/16858
+#EXTINF:-1,DE: POPCORN SELECT 4
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/16859
+#EXTINF:-1,DE: POPCORN SELECT HD 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/28254
+#EXTINF:-1,DE: POPCORN SELECT HD 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/28255
+#EXTINF:-1,DE: POPCORN SELECT HD 3
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/28256
+#EXTINF:-1,DE: POPCORN SELECT HD 4
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/28257
+#EXTINF:-1,DE: KiNOBOX 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48838
+#EXTINF:-1,DE: KiNOBOX 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48839
+#EXTINF:-1,DE: KiNOBOX 3 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48840
+#EXTINF:-1,DE: KiNOBOX 4 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48841
+#EXTINF:-1,DE: KiNOBOX 5 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48842
+#EXTINF:-1,DE: KiNOBOX 6 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48843
+#EXTINF:-1,DE: KiNOBOX 7 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48844
+#EXTINF:-1,DE: KiNOBOX 8 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48845
+#EXTINF:-1,DE: KiNOBOX 9 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48846
+#EXTINF:-1,DE: KiNOBOX 10 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48847
+#EXTINF:-1,DE: BOSS Movies 2 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71037
+#EXTINF:-1,DE: Sky Select Premiere 18 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71034
+#EXTINF:-1,DE: Eagle Cinema Biografie FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34901
+#EXTINF:-1,DE: Eagle Cinema Premiere HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34904
+#EXTINF:-1,DE: Eagle Cinema Sci-Fi
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34905
+#EXTINF:-1,DE: Eagle Cinema Drama HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/34908
+#EXTINF:-1,DE: Eagle Cinema Aktion HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/101401
+#EXTINF:-1,DE: Eagle Cinema Lacheln HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/101402
+#EXTINF:-1,DE: Eagle Cinema Horror HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/46863
+#EXTINF:-1,DE: Eagle Cinema Animation HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/46864
+#EXTINF:-1,DE: Sky Select Premiere Vitrine HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71016
+#EXTINF:-1,DE: Sky Select Premiere 1 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71017
+#EXTINF:-1,DE: Sky Select Premiere 2 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71018
+#EXTINF:-1,DE: Sky Select Premiere 3 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71019
+#EXTINF:-1,DE: Sky Select Premiere 4 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71020
+#EXTINF:-1,DE: Sky Select Premiere 5 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71021
+#EXTINF:-1,DE: Sky Select Premiere 6 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71022
+#EXTINF:-1,DE: Sky Select Premiere 7 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71023
+#EXTINF:-1,DE: Sky Select Premiere 8 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71024
+#EXTINF:-1,DE: Sky Select Premiere 9 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71025
+#EXTINF:-1,DE: Sky Select Premiere 10 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71026
+#EXTINF:-1,DE: Sky Select Premiere 11 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71027
+#EXTINF:-1,DE: Sky Select Premiere 12 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71028
+#EXTINF:-1,DE: Sky Select Premiere 13 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71029
+#EXTINF:-1,DE: Sky Select Premiere 14 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71030
+#EXTINF:-1,DE: Sky Select Premiere 15 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71031
+#EXTINF:-1,DE: Sky Select Premiere 16 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71032
+#EXTINF:-1,DE: Sky Select Premiere 17 FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71033
+#EXTINF:-1,DE: BOSS Movies 1 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71036
+#EXTINF:-1,DE: BOSS Movies 3 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71038
+#EXTINF:-1,DE: BOSS Movies 4 HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71039
+#EXTINF:-1,▃ ▅ ▆ █ DE SKY SELECT █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/81574
+#EXTINF:-1,INFO Sky Select der Mai
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82837
+#EXTINF:-1,DE-SELECT: Sky Select 1 - Nobody
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/81581
+#EXTINF:-1,DE-SELECT: Sky Select 2 - Justice Society World War II
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/81582
+#EXTINF:-1,DE-SELECT: Sky Select 3 - Red Screening
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/81585
+#EXTINF:-1,DE-SELECT: Sky Select 4 - Nomadland
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/81586
+#EXTINF:-1,DE-SELECT: Sky Select 5 - The Dissident
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82007
+#EXTINF:-1,DE-SELECT: Sky Select 6 - Mortal Kombat
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82008
+#EXTINF:-1,DE-SELECT: Sky Select 7 - Psycho Goreman
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82009
+#EXTINF:-1,DE-SELECT: Sky Select 8 - Sag Mir Wann
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82010
+#EXTINF:-1,DE-SELECT: Sky Select 9 - Songbird
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82011
+#EXTINF:-1,DE-SELECT: Sky Select 10 - Thunder Force
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82012
+#EXTINF:-1,▃ ▅ ▆ █ GERMANY KIDS █ ▆ ▅ ▃
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/15901
+#EXTINF:-1,DE: Disney Channel FHD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2333
+#EXTINF:-1,DE: Disney Channel HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2329
+#EXTINF:-1,DE: Disney Junior HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2334
+#EXTINF:-1,DE: Disney XD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2335
+#EXTINF:-1,DE: Cartoon Network Germany
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2332
+#EXTINF:-1,DE: Boomerang
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2331
+#EXTINF:-1,DE: Nickelodeon HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2336
+#EXTINF:-1,DE: Junior
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86720
+#EXTINF:-1,DE: Nick Jr.
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/72396
+#EXTINF:-1,DE: Super RTL HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/1810
+#EXTINF:-1,DE: Kika HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2337
+#EXTINF:-1,DE: Comedy Central HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/2507
+#EXTINF:-1,DE: Toggo Plus
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/38361
+#EXTINF:-1,DE: Nicktoons HD
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/44055
+#EXTINF:-1,DE: Zig & Sharko
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/82000
+#EXTINF:-1,DE: HyperKids
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48608
+#EXTINF:-1,DE: HyperKids  Prinzessin
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48609
+#EXTINF:-1,DE: HyperKids Pappa Wutz
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48610
+#EXTINF:-1,DE: HyperKids Caillou
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/48611
+#EXTINF:-1,DE: Mascha und der Bär 24/7
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/99051
+#EXTINF:-1,DE: MASCHA UND BAR HD NETFLIX
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/102616
+#EXTINF:-1,DE: Blaze 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86345
+#EXTINF:-1,DE: Die Garde der Löwen 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86348
+#EXTINF:-1,DE: Disney's Grosse Pause 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86349
+#EXTINF:-1,DE: Dragon Ball 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86350
+#EXTINF:-1,DE: Kim Possible 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86351
+#EXTINF:-1,DE: Der Kleine Prinz
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/99561
+#EXTINF:-1,DE: Captain Tsubasa 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86352
+#EXTINF:-1,DE: SERIENAX Spongebob
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86354
+#EXTINF:-1,DE: Meine Freundin Conni 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86355
+#EXTINF:-1,DE: Mick's Clubhaus 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86356
+#EXTINF:-1,DE: Micky und die flinken Flitzer 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86357
+#EXTINF:-1,DE: Peppa Pig 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86358
+#EXTINF:-1,DE: PJ Masks 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86359
+#EXTINF:-1,DE: Spy Kids 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86360
+#EXTINF:-1,DE: The Boss Baby 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86361
+#EXTINF:-1,DE: Tom und Jerry Show 7/24
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/86363
+#EXTINF:-1,DE: Miraculous
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/85559
+#EXTINF:-1,DE: HT Spongebob 
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/78450
+#EXTINF:-1,DE: Spongebob TV 1
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71066
+#EXTINF:-1,DE: Spongebob TV 2
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71067
+#EXTINF:-1,DE: Feuerwehrmann Sam
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71068
+#EXTINF:-1,DE: Mr. Bean
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71060
+#EXTINF:-1,DE: PAW Patrol
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71069
+#EXTINF:-1,DE: Heidi TV | Die neue Serie
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71070
+#EXTINF:-1,DE: Peppa Wutz
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/71065
+#EXTINF:-1,DE: Fix & Foxi
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/50258
+#EXTINF:-1,DE: Htestream LADYBUG
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33723
+#EXTINF:-1,DE: Htestream Tsubasa
+http://verachannels.com:8080/bestmedia/ZPUsh2YEmBvG/33840
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Discovery Channel
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11566
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Discovery Showcase 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11568
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | National Geographic 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11595
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Nat Geo Wild 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11593
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | History 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11584
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Horse & Country
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11585
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Animal Planet
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11556
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | Discovery Investigatio
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11564
-#EXTINF:0 tvg-id="ext" group-title="Nederland-Cultuur",NL | 24 Kitchen
-http://romax.live:2086/nomore:live/E4SKdGsEyc/11555
+
+#EXTINF:-1,UK | Sky Sports Main Event HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73657
+#EXTINF:-1,UK | Sky Sports Cricket HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73659
+#EXTINF:-1,UK | Sky Sports Golf HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73663
+#EXTINF:-1,UK | Sky Sports Premier League HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73665
+#EXTINF:-1,UK | Sky Sports Arena HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73667
+#EXTINF:-1,UK | Sky Sports Football HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73669
+#EXTINF:-1,UK | Sky Sports F1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73671
+#EXTINF:-1,UK | Sky Sports Mix HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73673
+#EXTINF:-1,UK | Sky Sports Racing HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73675
+#EXTINF:-1,UK | Racing TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73677
+#EXTINF:-1,UK | Sky Sports News
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73679
+#EXTINF:-1,UK | BT Sport 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73680
+#EXTINF:-1,UK | BT Sport 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73682
+#EXTINF:-1,UK | BT Sport 3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73684
+#EXTINF:-1,UK | BT Sport ESPN HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73686
+#EXTINF:-1,UK | Liverpool FC TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73692
+#EXTINF:-1,UK | FreeSports HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73693
+#EXTINF:-1,UK | IRE Premier Sports 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73694
+#EXTINF:-1,UK | IRE Premier Sports 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73696
+#EXTINF:-1,UK | IRE Eir Sport 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73698
+#EXTINF:-1,UK | IRE Eir Sport 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73700
+#EXTINF:-1,UK | BoxNation
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73703
+#EXTINF:-1,UK | Front Runner
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73704
+#EXTINF:-1,UK | BBC Red Button 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73705
+#EXTINF:-1,UK | MUTV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73706
+#EXTINF:-1,UK | Sky Sports News HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73707
+#EXTINF:-1,UK | BT Sport Extra 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73708
+#EXTINF:-1,UK | BT Sport Extra 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73709
+#EXTINF:-1,UK | BT Sport Extra 3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73710
+#EXTINF:-1,UK | BT Sport Extra 4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73711
+#EXTINF:-1,UK | BT Sport Extra 5 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73712
+#EXTINF:-1,UK | Daily Sports Fixtures
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73713
+#EXTINF:-1,UK | GINX eSports
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73714
+#EXTINF:-1,UK | Modus Darts
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73715
+#EXTINF:-1,UK | Betfred TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73716
+#EXTINF:-1,UK | Horse and Country
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73717
+#EXTINF:-1,UK | Sky Cinema Premier HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73720
+#EXTINF:-1,UK | Sky Cinema Musicals HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73722
+#EXTINF:-1,UK | Sky Cinema Hits HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73724
+#EXTINF:-1,UK | Sky Cinema Greats HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73726
+#EXTINF:-1,UK | Sky Cinema Animation HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73728
+#EXTINF:-1,UK | Sky Cinema Animation HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73730
+#EXTINF:-1,UK | Sky Cinema Family HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73732
+#EXTINF:-1,UK | Sky Cinema Action HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73734
+#EXTINF:-1,UK | Sky Cinema Comedy HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73736
+#EXTINF:-1,UK | Sky Cinema Thriller HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73738
+#EXTINF:-1,UK | Sky Cinema Drama HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73740
+#EXTINF:-1,UK | Sky Cinema SciFi HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73742
+#EXTINF:-1,UK | Film4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73744
+#EXTINF:-1,UK | TCM HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73746
+#EXTINF:-1,UK | Horror Channel
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73748
+#EXTINF:-1,UK | Sony Movies
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73749
+#EXTINF:-1,UK | SKY Store PreOrder Kids
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73750
+#EXTINF:-1,UK | SKY Store PreOrder 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73751
+#EXTINF:-1,UK | SKY Store 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73752
+#EXTINF:-1,UK | SKY Store 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73753
+#EXTINF:-1,UK | SKY Store 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73754
+#EXTINF:-1,UK | SKY Store 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73755
+#EXTINF:-1,UK | SKY Store 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73756
+#EXTINF:-1,UK | Sony Movies Classic
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73759
+#EXTINF:-1,UK | Sony Movies Action
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73760
+#EXTINF:-1,UK | BBC1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73761
+#EXTINF:-1,UK | BBC1 SD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73762
+#EXTINF:-1,UK | BBC2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73763
+#EXTINF:-1,UK | BBC2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73764
+#EXTINF:-1,UK | BBC 4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/164201
+#EXTINF:-1,UK | BBC Parliament
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73869
+#EXTINF:-1,UK | BBC Scotland HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73795
+#EXTINF:-1,UK | ITV1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73765
+#EXTINF:-1,UK | ITV1 SD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73766
+#EXTINF:-1,UK | Channel 4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73767
+#EXTINF:-1,UK | Channel 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73768
+#EXTINF:-1,UK | Channel 5 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73769
+#EXTINF:-1,UK | Channel 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73770
+#EXTINF:-1,UK | Sky One HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73771
+#EXTINF:-1,UK | Sky One
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73772
+#EXTINF:-1,UK | Sky Atlantic HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73773
+#EXTINF:-1,UK | Sky Atlantic
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73774
+#EXTINF:-1,UK | Sky Witness HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73775
+#EXTINF:-1,UK | Sky Witness
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73776
+#EXTINF:-1,UK | Paramount HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73777
+#EXTINF:-1,UK | Paramount SD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73778
+#EXTINF:-1,UK | W HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73779
+#EXTINF:-1,UK | Gold HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73781
+#EXTINF:-1,UK | Dave HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73783
+#EXTINF:-1,UK | Comedy Central HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73785
+#EXTINF:-1,UK | Syfy HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73787
+#EXTINF:-1,UK | ITV2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73789
+#EXTINF:-1,UK | ITV3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73791
+#EXTINF:-1,UK | ITV4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73793
+#EXTINF:-1,UK | MTV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73797
+#EXTINF:-1,UK | Sky Arts HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73801
+#EXTINF:-1,UK | Fox HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73803
+#EXTINF:-1,UK | TLC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73805
+#EXTINF:-1,UK | Alibi HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73807
+#EXTINF:-1,UK | E4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73809
+#EXTINF:-1,UK | More4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73811
+#EXTINF:-1,UK | 4Seven HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73813
+#EXTINF:-1,UK | Quest HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73815
+#EXTINF:-1,UK | Quest Red
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73817
+#EXTINF:-1,UK | E! HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73818
+#EXTINF:-1,UK | Lifetime HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73820
+#EXTINF:-1,UK | ITV Be
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73822
+#EXTINF:-1,UK | S4C HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73823
+#EXTINF:-1,UK | Comedy Central  Extra
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73825
+#EXTINF:-1,UK | Dave ja vu
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73826
+#EXTINF:-1,UK | 5 USA
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73827
+#EXTINF:-1,UK | 5 SELECT
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73828
+#EXTINF:-1,UK | 5 STAR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73829
+#EXTINF:-1,UK | BLAZE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73830
+#EXTINF:-1,UK | CBS Drama
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73831
+#EXTINF:-1,UK | CBS Justice
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73832
+#EXTINF:-1,UK | CBS Reality
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73833
+#EXTINF:-1,UK | Drama
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73834
+#EXTINF:-1,UK | Really
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73835
+#EXTINF:-1,UK | Sony Movies Action
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73836
+#EXTINF:-1,UK | Sony Channel
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73837
+#EXTINF:-1,UK | Sony Crime
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73838
+#EXTINF:-1,UK | Discovery Home & Health
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73839
+#EXTINF:-1,UK | Sky 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73840
+#EXTINF:-1,UK | Pick
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73841
+#EXTINF:-1,UK | Travel Channel
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73842
+#EXTINF:-1,UK | ITV1 +1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73843
+#EXTINF:-1,UK | Challenge
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73844
+#EXTINF:-1,UK | Comedy Central Xtra
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73845
+#EXTINF:-1,UK | Food Network
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73847
+#EXTINF:-1,UK | Animal Planet
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73900
+#EXTINF:-1,UK | Discovery Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73901
+#EXTINF:-1,UK | Nat Geo HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73903
+#EXTINF:-1,UK | Nat Geo Wild HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73905
+#EXTINF:-1,UK | Crime Investigation HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73907
+#EXTINF:-1,UK | Sky History HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73909
+#EXTINF:-1,UK | Sky History 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73911
+#EXTINF:-1,UK | Eden HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73913
+#EXTINF:-1,UK | Discovery History
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73915
+#EXTINF:-1,UK | Discovery Science
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73916
+#EXTINF:-1,UK | Discovery Turbo
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73917
+#EXTINF:-1,UK | Discovery Shed
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73918
+#EXTINF:-1,UK | DMAX
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73919
+#EXTINF:-1,UK | HGTV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73920
+#EXTINF:-1,UK | ID
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73921
+#EXTINF:-1,UK | YESTERDAY
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73922
+#EXTINF:-1,UK | Sky Crime HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73924
+#EXTINF:-1,UK | PBS America
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73925
+#EXTINF:-1,UK | Sky Documentaries HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73926
+#EXTINF:-1,UK | Sky Nature
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73927
+#EXTINF:-1,UK | MTV BASE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73930
+#EXTINF:-1,UK | MTV CLASSIC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73931
+#EXTINF:-1,UK | MTV HITS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73932
+#EXTINF:-1,UK | MTV MUSIC
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73933
+#EXTINF:-1,UK | Club MTV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73935
+#EXTINF:-1,UK | 4Music
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73936
+#EXTINF:-1,UK | Box Hits Smah Hits
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73937
+#EXTINF:-1,UK | Clubland TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73938
+#EXTINF:-1,UK | Kerrang!
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73939
+#EXTINF:-1,UK | NOW 80s
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73940
+#EXTINF:-1,UK | NOW 90s
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73941
+#EXTINF:-1,UK | The Box
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73942
+#EXTINF:-1,UK | Trace Urban
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73943
+#EXTINF:-1,UK | Magic TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73945
+#EXTINF:-1,UK | Sky News HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73946
+#EXTINF:-1,UK | BBC News HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73947
+#EXTINF:-1,UK | Bloomberg HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73948
+#EXTINF:-1,UK | Sky News
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73949
+#EXTINF:-1,UK | BBC News
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73950
+#EXTINF:-1,UK | CNN
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73952
+#EXTINF:-1,UK | Russia Today
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/73953
+#EXTINF:-1,UK | Leeds United TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147524
+#EXTINF:-1,PDC TV | Board 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148704
+#EXTINF:-1,PDC TV | Board 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148705
+#EXTINF:-1,UK | Flow Sports
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/153684
+#EXTINF:-1,UK | Betting TV 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/153685
+#EXTINF:-1,UK | Betting TV 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/153686
+#EXTINF:-1,UK | Tennis TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/160833
 
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al Aoula Inter int
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/955
-#EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al Aoula Tnt
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42381
-#EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al 2M Monde
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/954
-#EXTINF:0 tvg-id="ext" group-title="Maroc",MA | Al 2M Tnt
-http://tbs-tv.com:8080/kuchinilineloca/streamlocallines/42380
+#EXTINF:-1,US | EPIX HITS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49792
+#EXTINF:-1,US: PAC-12 Bay Area
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146181
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146182
+#EXTINF:-1,US: PAC-12 Mountain
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146183
+#EXTINF:-1,US: PAC-12 Oregon
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146184
+#EXTINF:-1,US: PAC-12 Washington
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146185
+#EXTINF:-1,USA EAST | Animal Planet East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147575
+#EXTINF:-1,USA EAST | Bet East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147562
+#EXTINF:-1,USA EAST | Bravo East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147563
+#EXTINF:-1,USA EAST | Cartoon Network East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147579
+#EXTINF:-1,USA EAST | Comedy Central East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147564
+#EXTINF:-1,USA EAST | Discovery East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147576
+#EXTINF:-1,USA EAST | Disney Channel East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147580
+#EXTINF:-1,USA EAST | Disney Jr East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147581
+#EXTINF:-1,USA EAST | Disney XD East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147582
+#EXTINF:-1,USA EAST | E! East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147565
+#EXTINF:-1,USA EAST | Food Network East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147566
+#EXTINF:-1,USA EAST | Freeform East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147567
+#EXTINF:-1,USA EAST | MTV 2 East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147585
+#EXTINF:-1,USA EAST | Nat Geo East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147577
+#EXTINF:-1,USA EAST | Nick Jr East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147583
+#EXTINF:-1,USA EAST | Oxygen East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147568
+#EXTINF:-1,USA EAST | Syfy East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147569
+#EXTINF:-1,USA EAST | TBS East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147570
+#EXTINF:-1,USA EAST | TLC East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147571
+#EXTINF:-1,USA EAST | TNT East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147572
+#EXTINF:-1,USA EAST | Travel Channel East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147578
+#EXTINF:-1,USA EAST | Tru TV East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147574
+#EXTINF:-1,USA EAST | TV Land East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147573
+#EXTINF:-1,USA EAST | VH1 East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147586
+#EXTINF:-1,USA West | Animal Planet West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147595
+#EXTINF:-1,USA West | BET West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147607
+#EXTINF:-1,USA West | Bravo West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147608
+#EXTINF:-1,USA West | Cartoon Network West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147599
+#EXTINF:-1,USA West | Comedy Central West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147609
+#EXTINF:-1,USA West | Discovery West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147596
+#EXTINF:-1,USA West | Disney Channel West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147600
+#EXTINF:-1,USA West | Disney Jr West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147601
+#EXTINF:-1,USA West | Disney XD West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147615
+#EXTINF:-1,USA West | E! West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147587
+#EXTINF:-1,USA West | Food Network West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147610
+#EXTINF:-1,USA West | Fox Sports West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147598
+#EXTINF:-1,USA West | Freeform West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147588
+#EXTINF:-1,USA West | HGTV West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147602
+#EXTINF:-1,USA West | MTV 2 West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147611
+#EXTINF:-1,USA West | Nat Geo West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147597
+#EXTINF:-1,USA West | Nick JR West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147612
+#EXTINF:-1,USA West | Nickelodeon West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147613
+#EXTINF:-1,USA West | Oxygen West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147589
+#EXTINF:-1,USA West | Smithsonian Channel West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147614
+#EXTINF:-1,USA West | Syfy West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147590
+#EXTINF:-1,USA West | TBS West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147603
+#EXTINF:-1,USA West | TLC West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147591
+#EXTINF:-1,USA West | TNT West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147592
+#EXTINF:-1,USA West | Travel Channel West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147606
+#EXTINF:-1,USA West | Tru TV West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147593
+#EXTINF:-1,USA West | TV Land West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147605
+#EXTINF:-1,USA West | USA Network West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147594
+#EXTINF:-1,USA West | VH1 West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147604
+#EXTINF:-1,USA | A&E HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49687
+#EXTINF:-1,USA | ACC NETWORK HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49874
+#EXTINF:-1,USA | Action Max FHD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147541
+#EXTINF:-1,USA | AMC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49715
+#EXTINF:-1,USA | American Heroes Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49872
+#EXTINF:-1,USA | Animal Planet East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49716
+#EXTINF:-1,USA | Antenna TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49718
+#EXTINF:-1,USA | AWE HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49873
+#EXTINF:-1,USA | AXS TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49720
+#EXTINF:-1,USA | Baby First HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49722
+#EXTINF:-1,USA | Baby TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49721
+#EXTINF:-1,USA | BBC America HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49727
+#EXTINF:-1,USA | BBC World News
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49728
+#EXTINF:-1,USA | BET East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49725
+#EXTINF:-1,USA | BET HER HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49689
+#EXTINF:-1,USA | BET JAMS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49724
+#EXTINF:-1,USA | BET SOUL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49723
+#EXTINF:-1,USA | BET West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49726
+#EXTINF:-1,USA | Big Ten Network HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49686
+#EXTINF:-1,USA | Bloomberg TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49729
+#EXTINF:-1,USA | Boomerang HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49730
+#EXTINF:-1,USA | BOUNCE TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49875
+#EXTINF:-1,USA | Bravo East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49731
+#EXTINF:-1,USA | Bravo HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146162
+#EXTINF:-1,USA | Bravo West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49732
+#EXTINF:-1,USA | BUZZR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49733
+#EXTINF:-1,USA | C-Span 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146160
+#EXTINF:-1,USA | C-SPAN 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49734
+#EXTINF:-1,USA | C-Span 3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146161
+#EXTINF:-1,USA | CARTOON NETWORK HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49736
+#EXTINF:-1,USA | CHEDDAR Business
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49737
+#EXTINF:-1,USA | Cinemax FHD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147552
+#EXTINF:-1,USA | CMT HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49743
+#EXTINF:-1,USA | CNBC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49742
+#EXTINF:-1,USA | CNBC World HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49741
+#EXTINF:-1,USA | CNN INTERNATIONAL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49755
+#EXTINF:-1,USA | COMEDY CENTRAL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49754
+#EXTINF:-1,USA | Comet TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49752
+#EXTINF:-1,USA | Cooking Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49751
+#EXTINF:-1,USA | COZI TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49749
+#EXTINF:-1,USA | CW HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49747
+#EXTINF:-1,USA | Destination America
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49746
+#EXTINF:-1,USA | Discovery Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49745
+#EXTINF:-1,USA | DISCOVERY EAST
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49765
+#EXTINF:-1,USA | DISCOVERY FAMILIA CHANNEL
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49767
+#EXTINF:-1,USA | DISCOVERY LIFE HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49768
+#EXTINF:-1,USA | Discovery Science HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49761
+#EXTINF:-1,USA | Discovery Velocity HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49870
+#EXTINF:-1,USA | Disney Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49760
+#EXTINF:-1,USA | DISNEY Junior HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49758
+#EXTINF:-1,USA | Disney XD East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49756
+#EXTINF:-1,USA | Disney XD HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49784
+#EXTINF:-1,USA | DIY NETWORK HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49785
+#EXTINF:-1,USA | E! Entertainment
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49788
+#EXTINF:-1,USA | Epix 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145976
+#EXTINF:-1,USA | EPIX DRIVE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49789
+#EXTINF:-1,USA | Epix HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49790
+#EXTINF:-1,USA | Fight Network
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49793
+#EXTINF:-1,USA | Food Network HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49795
+#EXTINF:-1,USA | Fox Business HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49796
+#EXTINF:-1,USA | Fox College Sports Atlantic
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148953
+#EXTINF:-1,USA | Fox College Sports Central
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148954
+#EXTINF:-1,USA | Fox College Sports Pacific
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148955
+#EXTINF:-1,USA | Fox HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/150834
+#EXTINF:-1,USA | FOX Life
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49797
+#EXTINF:-1,USA | Fox News HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49798
+#EXTINF:-1,USA | Fox Sports 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148706
+#EXTINF:-1,USA | Fox Sports 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148707
+#EXTINF:-1,USA | FOX SPORTS ARIZONA HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148927
+#EXTINF:-1,USA | FOX SPORTS ARIZONA PLUS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148928
+#EXTINF:-1,USA | FOX SPORTS CAROLINAS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148929
+#EXTINF:-1,USA | FOX SPORTS OHIO CINCINNATI
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148930
+#EXTINF:-1,USA | FOX SPORTS DEPORTES HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148931
+#EXTINF:-1,USA | FOX SPORTS DETROIT HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148932
+#EXTINF:-1,USA | FOX SPORTS FLORIDA HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148933
+#EXTINF:-1,USA | FOX SPORTS MID WEST HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148935
+#EXTINF:-1,USA | FOX SPORTS NEWS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148936
+#EXTINF:-1,USA | FOX SPORTS NORTH CAROLINAS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148937
+#EXTINF:-1,USA | Fox Sports NORTH HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148938
+#EXTINF:-1,USA | FOX SPORTS OHIO HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148939
+#EXTINF:-1,USA | FOX SPORTS OKLAHOMA HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148940
+#EXTINF:-1,USA | FOX SPORTS PRIME TICKET HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148941
+#EXTINF:-1,USA | FOX SPORTS SAN ANTONIO HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148942
+#EXTINF:-1,USA | FOX SPORTS SAN DIEGO HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148943
+#EXTINF:-1,USA | FOX SPORTS SOUTH CAROLINA HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148944
+#EXTINF:-1,USA | FOX SPORTS SOUTH HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148945
+#EXTINF:-1,USA | FOX SPORTS SOUTHEAST HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148947
+#EXTINF:-1,USA | FOX SPORTS SOUTHWEST HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148948
+#EXTINF:-1,USA | FOX SPORTS SPORTSTIME OHIO HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148949
+#EXTINF:-1,USA | FOX SPORTS SUN HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148950
+#EXTINF:-1,USA | FOX SPORTS TENNESSEE HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148951
+#EXTINF:-1,USA | FOX SPORTS WISCONSIN
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148952
+#EXTINF:-1,USA | Freeform HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49783
+#EXTINF:-1,USA | FREEFORM West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49782
+#EXTINF:-1,USA | FUSE HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49781
+#EXTINF:-1,USA | Fusion HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49780
+#EXTINF:-1,USA | FX East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147555
+#EXTINF:-1,USA | FX HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49777
+#EXTINF:-1,USA | FX Movies CHannel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49775
+#EXTINF:-1,USA | FX West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147556
+#EXTINF:-1,USA | FXX East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147553
+#EXTINF:-1,USA | FXX HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49774
+#EXTINF:-1,USA | FXX West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147554
+#EXTINF:-1,USA | FYI HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49779
+#EXTINF:-1,USA | GAME SHOW NETWORK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49714
+#EXTINF:-1,USA | GRIT TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49772
+#EXTINF:-1,USA | Hallmark Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146159
+#EXTINF:-1,USA | Hallmark Drama HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146163
+#EXTINF:-1,USA | Hallmark Movies & Mysteries HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146164
+#EXTINF:-1,USA | HBO 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146165
+#EXTINF:-1,USA | HBO Comedy HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146166
+#EXTINF:-1,USA | HBO East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146167
+#EXTINF:-1,USA | HBO Family HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146168
+#EXTINF:-1,USA | HBO Signature HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146170
+#EXTINF:-1,USA | HBO West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146171
+#EXTINF:-1,USA | HBO Zone HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146172
+#EXTINF:-1,USA | HDnet Movies HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146173
+#EXTINF:-1,USA | HGTV  East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49803
+#EXTINF:-1,USA | HGTV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49801
+#EXTINF:-1,USA | HISTORY
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49804
+#EXTINF:-1,USA | HLN HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49806
+#EXTINF:-1,USA | HSN 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146174
+#EXTINF:-1,USA | IFC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49807
+#EXTINF:-1,USA | INVESTIGATION DISCOVERY HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49808
+#EXTINF:-1,USA | ION FHD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49810
+#EXTINF:-1,USA | JUSTICE CENTRAL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49811
+#EXTINF:-1,USA | LAW AND CRIME HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49812
+#EXTINF:-1,USA | Lifetime HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49813
+#EXTINF:-1,USA | Lifetime Movie Network HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/145661
+#EXTINF:-1,USA | More Max HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146179
+#EXTINF:-1,USA | Motor Trend HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148703
+#EXTINF:-1,USA | Movie Max HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146177
+#EXTINF:-1,USA | MoviePlex HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146178
+#EXTINF:-1,USA | MSG 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142631
+#EXTINF:-1,USA | MSG 2 PLUS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146175
+#EXTINF:-1,USA | MSG HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49713
+#EXTINF:-1,USA | MSG Plus HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146176
+#EXTINF:-1,USA | MSNBC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49815
+#EXTINF:-1,USA | MTV 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49816
+#EXTINF:-1,USA | MTV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49817
+#EXTINF:-1,USA | NASA TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49819
+#EXTINF:-1,USA | NAT GEO HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49820
+#EXTINF:-1,USA | NAT GEO WILD HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49822
+#EXTINF:-1,USA | NBC East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49823
+#EXTINF:-1,USA | NBC Golf HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148962
+#EXTINF:-1,USA | NBC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49824
+#EXTINF:-1,USA | NBC Sports Bay Area
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58100
+#EXTINF:-1,USA | NBC Sports Bay Area HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148956
+#EXTINF:-1,USA | NBC Sports Boston
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58101
+#EXTINF:-1,USA | NBC Sports California
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58102
+#EXTINF:-1,USA | NBC Sports California HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148957
+#EXTINF:-1,USA | NBC Sports Chicago
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58103
+#EXTINF:-1,USA | NBC SPORTS CHICAGO PLUS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148958
+#EXTINF:-1,USA | NBC Sports Network HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148959
+#EXTINF:-1,USA | NBC Sports Northwest
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58104
+#EXTINF:-1,USA | NBC Sports Philadelphia
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58105
+#EXTINF:-1,USA | NBC Sports Washington
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/58106
+#EXTINF:-1,USA | NBC Sports Washington HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148961
+#EXTINF:-1,USA | Nick Jr HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49826
+#EXTINF:-1,USA | Nick Music
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49827
+#EXTINF:-1,USA | Nickelodeon East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147584
+#EXTINF:-1,USA | Nickelodeon HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49828
+#EXTINF:-1,USA | Nicktoons HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49829
+#EXTINF:-1,USA | ONE AMERICA NEWS NETWORK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49690
+#EXTINF:-1,USA | Oprah Winfrey Network FHD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49833
+#EXTINF:-1,USA | Outdoor Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49830
+#EXTINF:-1,USA | Outer Max HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/146180
+#EXTINF:-1,USA | Oxygen HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49835
+#EXTINF:-1,USA | PAC 12 NETWORK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49710
+#EXTINF:-1,USA | PAC-12 ARIZONA
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49709
+#EXTINF:-1,USA | PBS KIDS
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49836
+#EXTINF:-1,USA | POP & Country
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148964
+#EXTINF:-1,USA | POP TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49839
+#EXTINF:-1,USA | Reelz HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49840
+#EXTINF:-1,USA | RFD TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49841
+#EXTINF:-1,USA | SEC NETWORK
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49878
+#EXTINF:-1,USA | Showtime 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147543
+#EXTINF:-1,USA | Showtime East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147558
+#EXTINF:-1,USA | Showtime Extreme HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147544
+#EXTINF:-1,USA | Showtime Family Zone HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147545
+#EXTINF:-1,USA | Showtime HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147546
+#EXTINF:-1,USA | Showtime Next HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147547
+#EXTINF:-1,USA | Showtime Showcase HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147548
+#EXTINF:-1,USA | Showtime SHOxBET
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147549
+#EXTINF:-1,USA | Showtime West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147550
+#EXTINF:-1,USA | Showtime Women HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147551
+#EXTINF:-1,USA | Smithsonian Channel East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147560
+#EXTINF:-1,USA | Smithsonian Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49844
+#EXTINF:-1,USA | SPIKE (Paramount) HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49845
+#EXTINF:-1,USA | Starz Cinema HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147525
+#EXTINF:-1,USA | Starz Comedy HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147526
+#EXTINF:-1,USA | Starz East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147559
+#EXTINF:-1,USA | Starz Edge HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147527
+#EXTINF:-1,USA | Starz Encore Action HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147528
+#EXTINF:-1,USA | Starz Encore Black HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147529
+#EXTINF:-1,USA | Starz Encore Classic HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147530
+#EXTINF:-1,USA | Starz Encore East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147561
+#EXTINF:-1,USA | Starz Encore Espanol HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147531
+#EXTINF:-1,USA | Starz Encore Family HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147532
+#EXTINF:-1,USA | Starz Encore HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147533
+#EXTINF:-1,USA | Starz Encore Suspense HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147534
+#EXTINF:-1,USA | Starz Encore Westerns HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147536
+#EXTINF:-1,USA | Starz HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147537
+#EXTINF:-1,USA | STARZ IN BLACK HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147538
+#EXTINF:-1,USA | Starz Kids & Family HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147539
+#EXTINF:-1,USA | Starz West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147540
+#EXTINF:-1,USA | Sundance HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49691
+#EXTINF:-1,USA | Syfy HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49847
+#EXTINF:-1,USA | Tastemade +
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/148963
+#EXTINF:-1,USA | Tastmade HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49848
+#EXTINF:-1,USA | TBN Trinity Broadcasting Network
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49708
+#EXTINF:-1,USA | TBS HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49849
+#EXTINF:-1,USA | TCM Movies HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49853
+#EXTINF:-1,USA | Teen Nick HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49854
+#EXTINF:-1,USA | TENNIS CHANNEL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49706
+#EXTINF:-1,USA | THE WEATHER CHANNEL HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49704
+#EXTINF:-1,USA | TLC HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49856
+#EXTINF:-1,USA | TNT HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49858
+#EXTINF:-1,USA | Travel Channel HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49862
+#EXTINF:-1,USA | TRU TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49860
+#EXTINF:-1,USA | TVONE
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49701
+#EXTINF:-1,USA | Universal Kids HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49699
+#EXTINF:-1,USA | Universal Kids HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49863
+#EXTINF:-1,USA | Universo
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49864
+#EXTINF:-1,USA | USA Network East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49867
+#EXTINF:-1,USA | VH1 East HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49697
+#EXTINF:-1,USA | VH1 West HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49698
+#EXTINF:-1,USA | VICELAND
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49696
+#EXTINF:-1,USA | WE TV HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49694
+#EXTINF:-1,USA | Weather Nation HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49871
+#EXTINF:-1,USA | WGN America HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49693
+#EXTINF:-1,USA | World Fish Network HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/49877
+#EXTINF:-1,USA-Cinemax East
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147115
+#EXTINF:-1,USA | Cinemax West
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/147116
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | Das Erste
-http://romax.live:2086/nomore:live/E4SKdGsEyc/29049
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | ZDF 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1395
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1375
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL 2
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1377
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL LIVING 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1388
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL Crime
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1378
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL NITRO 
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1407
-#EXTINF:0 tvg-id="ext" group-title="Duitsland",DE | RTL PLUS
-http://romax.live:2086/nomore:live/E4SKdGsEyc/1380
+
+
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Al Maghribia Al Ekhbaria FHD
+http://ip4utv.cf:80/test/test/18700
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Al Oula Int FHD
+http://ip4utv.cf:80/test/test/18685
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Al Maghribia Al Ekhbaria
+http://ip4utv.cf:80/test/test/16012
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Al Oula inter
+http://ip4utv.cf:80/test/test/16011
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: AL Oula laayoune
+http://ip4utv.cf:80/test/test/16068
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: M24 Maroc
+http://ip4utv.cf:80/test/test/46366
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Marocco",Ar: 2M Maroc
+http://ip4utv.cf:80/test/test/16066
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Arryadia
+http://ip4utv.cf:80/test/test/16062
+#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="Marocco",Ar: Arrabiaa
+http://ip4utv.cf:80/test/test/16061
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Marocco",Ar: Assadissa
+http://ip4utv.cf:80/test/test/16060
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Tamazight
+http://ip4utv.cf:80/test/test/16063
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Medi1 Sat
+http://ip4utv.cf:80/test/test/16067
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Chada TV HD
+http://ip4utv.cf:80/test/test/44618
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Tele Maroc HD
+http://ip4utv.cf:80/test/test/44619
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: AL Oula laayoune FHD
+http://ip4utv.cf:80/test/test/44710
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar:  Athaqafia FHD
+http://ip4utv.cf:80/test/test/44711
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Arryadia FHD
+http://ip4utv.cf:80/test/test/44712
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Marocco",Ar: Assadissa FHD
+http://ip4utv.cf:80/test/test/44713
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Tamazight FHD
+http://ip4utv.cf:80/test/test/44716
+#EXTINF:0 tvg-id="ext" group-title="Marocco",Ar: Medi1 TV FHD
+http://ip4utv.cf:80/test/test/4471
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="MBC",Ar: MBC 1
+http://ip4utv.cf:80/test/test/16323
+#EXTINF:0 tvg-id="MBC2.ae" group-title="MBC",Ar: MBC 2
+http://ip4utv.cf:80/test/test/16322
+#EXTINF:0 tvg-id="MBC3.net" group-title="MBC",Ar: MBC 3
+http://ip4utv.cf:80/test/test/16321
+#EXTINF:0 tvg-id="MBC4.net" group-title="MBC",Ar: MBC 4
+http://ip4utv.cf:80/test/test/16320
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC 5
+http://ip4utv.cf:80/test/test/20461
+#EXTINF:0 tvg-id="MBCMax.net" group-title="MBC",Ar: MBC MAX
+http://ip4utv.cf:80/test/test/16319
+#EXTINF:0 tvg-id="MBCAction.net" group-title="MBC",Ar: MBC Action
+http://ip4utv.cf:80/test/test/16318
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC",Ar: MBC Bollywood
+http://ip4utv.cf:80/test/test/16317
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC",Ar: MBC Drama
+http://ip4utv.cf:80/test/test/16316
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC Masr
+http://ip4utv.cf:80/test/test/16315
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC Masr 2
+http://ip4utv.cf:80/test/test/16314
+#EXTINF:0 tvg-id="MBC1.net" group-title="MBC",Ar: MBC1 FHD
+http://ip4utv.cf:80/test/test/38547
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC2 FHD
+http://ip4utv.cf:80/test/test/38546
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC3 FHD
+http://ip4utv.cf:80/test/test/38544
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC4 FHD
+http://ip4utv.cf:80/test/test/38545
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC5 FHD
+http://ip4utv.cf:80/test/test/38540
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC Masr FHD
+http://ip4utv.cf:80/test/test/38538
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC Masr 2 FHD
+http://ip4utv.cf:80/test/test/38539
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC Iraq FHD
+http://ip4utv.cf:80/test/test/18667
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC",Ar: MBC Drama FHD
+http://ip4utv.cf:80/test/test/38548
+#EXTINF:0 tvg-id="MBCAction.net" group-title="MBC",Ar: MBC Action FHD
+http://ip4utv.cf:80/test/test/38541
+#EXTINF:0 tvg-id="MBCMax.net" group-title="MBC",Ar: MBC MAX FHD
+http://ip4utv.cf:80/test/test/38542
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC",Ar: MBC Bollywood FHD
+http://ip4utv.cf:80/test/test/38543
+#EXTINF:0 tvg-id="ext" group-title="MBC",Ar: MBC+Drama FHD
+http://ip4utv.cf:80/test/test/39842
+
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Tunisia Nat 1HD
+http://ip4utv.cf:80/test/test/46071
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Tunisia Nat 1
+http://ip4utv.cf:80/test/test/16082
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Tunisia Nat 2
+http://ip4utv.cf:80/test/test/16081
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Carthage +
+http://ip4utv.cf:80/test/test/16005
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Nessma TV
+http://ip4utv.cf:80/test/test/16132
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Telvza TV
+http://ip4utv.cf:80/test/test/16004
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Zaytoona
+http://ip4utv.cf:80/test/test/16125
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Tunisna
+http://ip4utv.cf:80/test/test/16080
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: janoubia
+http://ip4utv.cf:80/test/test/16084
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: M Tunisia
+http://ip4utv.cf:80/test/test/16074
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Hannibal
+http://ip4utv.cf:80/test/test/16076
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Al Hiwar Al tunisi
+http://ip4utv.cf:80/test/test/16072
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Al Insen
+http://ip4utv.cf:80/test/test/28912
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",Ar: Attessia TV
+http://ip4utv.cf:80/test/test/16085
+
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: EL Djazairia TV
+http://ip4utv.cf:80/test/test/46369
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: EL Fadjr TV DZ
+http://ip4utv.cf:80/test/test/46367
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: EL Nahar TV
+http://ip4utv.cf:80/test/test/16017
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Beur TV
+http://ip4utv.cf:80/test/test/16026
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Berbere TV
+http://ip4utv.cf:80/test/test/16024
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Bahia TV
+http://ip4utv.cf:80/test/test/16022
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: N1 Dzair TV
+http://ip4utv.cf:80/test/test/16006
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Bilad TV
+http://ip4utv.cf:80/test/test/16025
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Lina TV
+http://ip4utv.cf:80/test/test/46368
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: El Heddaf
+http://ip4utv.cf:80/test/test/16338
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: El Hayat Algeria TV
+http://ip4utv.cf:80/test/test/44590
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Al Anis TV
+http://ip4utv.cf:80/test/test/44591
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Echorouk TV
+http://ip4utv.cf:80/test/test/16018
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: Samira TV
+http://ip4utv.cf:80/test/test/46292
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: A2 Alegria
+http://ip4utv.cf:80/test/test/16023
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: A3 Alegria
+http://ip4utv.cf:80/test/test/16031
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: A3 Alegria FHD
+http://ip4utv.cf:80/test/test/18688
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: A5 Alegria
+http://ip4utv.cf:80/test/test/16021
+#EXTINF:0 tvg-id="ext" group-title="Algeria",Ar: A6 Alegria
+http://ip4utv.cf:80/test/test/46124
+
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",World: Corona Virus OutBreak
+http://ip4utv.cf:80/test/test/35900
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Asharq News Channel HD
+http://ip4utv.cf:80/test/test/46032
+#EXTINF:0 tvg-id="SkyNewsArabia.net" group-title="Nieuws",Ar: Sky News Arabia HD
+http://ip4utv.cf:80/test/test/16177
+#EXTINF:0 tvg-id="AlJazeeraArabe.nws" group-title="Nieuws",Ar: Al Jazeera News HD
+http://ip4utv.cf:80/test/test/46303
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Jazeera Mubasher HD
+http://ip4utv.cf:80/test/test/46305
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Hiwar TV HD
+http://ip4utv.cf:80/test/test/16164
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Ghad TV HD
+http://ip4utv.cf:80/test/test/46306
+#EXTINF:0 tvg-id="BBCArabic.net" group-title="Nieuws",Ar: BBC Arabic
+http://ip4utv.cf:80/test/test/16171
+#EXTINF:0 tvg-id="France24.fr" group-title="Nieuwss",Ar: France 24
+http://ip4utv.cf:80/test/test/16178
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Alam News
+http://ip4utv.cf:80/test/test/16335
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: DW Arabic
+http://ip4utv.cf:80/test/test/16337
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: RT News Arabic HD
+http://ip4utv.cf:80/test/test/16168
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: TRT Arabi HD
+http://ip4utv.cf:80/test/test/16170
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Araby TV HD
+http://ip4utv.cf:80/test/test/16173
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Arabia HD
+http://ip4utv.cf:80/test/test/16167
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: AL Hadath
+http://ip4utv.cf:80/test/test/16169
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: CNBC Arabia
+http://ip4utv.cf:80/test/test/16165
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: Al Shorouk News
+http://ip4utv.cf:80/test/test/16019
+#EXTINF:0 tvg-id="ext" group-title="Nieuws",Ar: AIC
+http://ip4utv.cf:80/test/test/39502
+
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Aflam+
+http://ip4utv.cf:80/test/test/46357
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana M+ HD
+http://ip4utv.cf:80/test/test/46356
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana+
+http://ip4utv.cf:80/test/test/46036
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Comedy HD
+http://ip4utv.cf:80/test/test/46038
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Kids HD
+http://ip4utv.cf:80/test/test/38471
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Cinema KSA HD
+http://ip4utv.cf:80/test/test/16330
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Cinema EGY
+http://ip4utv.cf:80/test/test/16332
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Classic HD
+http://ip4utv.cf:80/test/test/16328
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Khalijia HD
+http://ip4utv.cf:80/test/test/16326
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Music HD
+http://ip4utv.cf:80/test/test/16327
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Drama HD
+http://ip4utv.cf:80/test/test/31701
+#EXTINF:0 tvg-id="ext" group-title="Rotana",Ar: Rotana Clip
+http://ip4utv.cf:80/test/test/16325
+
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Saudi TV HD
+http://ip4utv.cf:80/test/test/16199
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: SBC HD
+http://ip4utv.cf:80/test/test/20808
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Saudia El Ekhbaria HD
+http://ip4utv.cf:80/test/test/16196
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Saudi 24 HD
+http://ip4utv.cf:80/test/test/36237
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Saudia Sport 24 HD
+http://ip4utv.cf:80/test/test/36238
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: AL Sahraa
+http://ip4utv.cf:80/test/test/38909
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: AL Saha
+http://ip4utv.cf:80/test/test/38910
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Saudi Zekrayat HD
+http://ip4utv.cf:80/test/test/16200
+#EXTINF:0 tvg-id="ext" group-title="Saudi",Ar: Drama Al Badawya HD
+http://ip4utv.cf:80/test/test/45981
+
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: AD AL Emarat TV HD
+http://ip4utv.cf:80/test/test/16218
+#EXTINF:0 tvg-id="AbuDhabiTV.uk" group-title="Emarat",Ar: Abu Dhabi TV HD
+http://ip4utv.cf:80/test/test/16219
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: Dubia TV HD
+http://ip4utv.cf:80/test/test/20866
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: Dubai Zaman
+http://ip4utv.cf:80/test/test/16220
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: Sama Dubai HD
+http://ip4utv.cf:80/test/test/20864
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: AD Drama HD
+http://ip4utv.cf:80/test/test/16222
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: Dubai One HD
+http://ip4utv.cf:80/test/test/20874
+#EXTINF:0 tvg-id="ext" group-title="Emarat",Ar: Noor Dubai TV
+http://ip4utv.cf:80/test/test/20865
+
+
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Al Mamlaka TV HD
+http://ip4utv.cf:80/test/test/29548
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Al Mamlaka TV FHD
+http://ip4utv.cf:80/test/test/40109
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Jordan TV HD
+http://ip4utv.cf:80/test/test/29551
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Jordan Sport HD
+http://ip4utv.cf:80/test/test/29552
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Roya HD
+http://ip4utv.cf:80/test/test/29553
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Amman TV HD
+http://ip4utv.cf:80/test/test/29554
+#EXTINF:0 tvg-id="ext" group-title="Joradan",Ar: Yarmouk TV
+http://ip4utv.cf:80/test/test/46123
+
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: Oman TV General HD
+http://ip4utv.cf:80/test/test/16047
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: OMAN TV General FHD
+http://ip4utv.cf:80/test/test/20456
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: Oman Sport HD
+http://ip4utv.cf:80/test/test/16046
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: OMAN TV Sport FHD
+http://ip4utv.cf:80/test/test/20457
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: Oman Cultural HD
+http://ip4utv.cf:80/test/test/16048
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: OMAN TV Culture FHD
+http://ip4utv.cf:80/test/test/20455
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: Oman TV Live HD
+http://ip4utv.cf:80/test/test/16049
+#EXTINF:0 tvg-id="ext" group-title="Oman",Ar: OMAN TV Live FHD
+http://ip4utv.cf:80/test/test/20458
+
+#EXTINF:0 tvg-id="ext" group-title="Qatar",Ar: Qatar HD
+http://ip4utv.cf:80/test/test/32850
+#EXTINF:0 tvg-id="ext" group-title="Qatar",Ar: Qatar 2HD
+http://ip4utv.cf:80/test/test/46072
+#EXTINF:0 tvg-id="ext" group-title="Qatar",Ar: Al Rayan TV
+http://ip4utv.cf:80/test/test/32851
+#EXTINF:0 tvg-id="ext" group-title="Qatar",Ar: Al Rayan Qadeem TV
+http://ip4utv.cf:80/test/test/32852
+
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait TV 1 HD
+http://ip4utv.cf:80/test/test/20853
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait TV 2 HD
+http://ip4utv.cf:80/test/test/20854
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: AL Majlis HD
+http://ip4utv.cf:80/test/test/20855
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait Sports HD
+http://ip4utv.cf:80/test/test/20858
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait Sports Plus HD
+http://ip4utv.cf:80/test/test/20857
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait Ethraa HD
+http://ip4utv.cf:80/test/test/20859
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait AlArabi HD
+http://ip4utv.cf:80/test/test/20860
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Kuwait Kids HD
+http://ip4utv.cf:80/test/test/33876
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Shahed TV HD
+http://ip4utv.cf:80/test/test/20851
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Adala Plus TV HD
+http://ip4utv.cf:80/test/test/36822
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Al Qurain HD
+http://ip4utv.cf:80/test/test/33877
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Scope TV
+http://ip4utv.cf:80/test/test/33972
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Adala TV HD
+http://ip4utv.cf:80/test/test/33973
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Al Rai
+http://ip4utv.cf:80/test/test/38445
+#EXTINF:0 tvg-id="ext" group-title="Kuwait",Ar: Marina TV
+http://ip4utv.cf:80/test/test/40845
+
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Misr Quran Kareem
+http://ip4utv.cf:80/test/test/40538
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Oula EG HD
+http://ip4utv.cf:80/test/test/16303
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Althanya
+http://ip4utv.cf:80/test/test/16302
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Masriyah HD
+http://ip4utv.cf:80/test/test/16301
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Maspero Zaman
+http://ip4utv.cf:80/test/test/16262
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: DMC HD
+http://ip4utv.cf:80/test/test/16296
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: DMC DRAMA
+http://ip4utv.cf:80/test/test/16295
+#EXTINF:0 tvg-id="CBCNewsNetwork.ca" group-title="Egypt",Ar: CBC
+http://ip4utv.cf:80/test/test/16300
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: CBC Extra News HD
+http://ip4utv.cf:80/test/test/16298
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Egypt",Ar: CBC Drama
+http://ip4utv.cf:80/test/test/16297
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: CBC Sofra
+http://ip4utv.cf:80/test/test/16299
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ON E HD
+http://ip4utv.cf:80/test/test/16293
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ON Drama
+http://ip4utv.cf:80/test/test/16294
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Ahly HD
+http://ip4utv.cf:80/test/test/16311
+#EXTINF:0 tvg-id="ext" group-title="Egypts",Ar: Zamalik TV
+http://ip4utv.cf:80/test/test/32926
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Al Hayat HD
+http://ip4utv.cf:80/test/test/16279
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Hayat Drama
+http://ip4utv.cf:80/test/test/16278
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Kahera Wal Nas
+http://ip4utv.cf:80/test/test/16276
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Kahera Wal Nas 2
+http://ip4utv.cf:80/test/test/16275
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Mehwar
+http://ip4utv.cf:80/test/test/16245
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="Egypt",Ar: Dream TV
+http://ip4utv.cf:80/test/test/16281
+#EXTINF:0 tvg-id="Ten.es" group-title="Egypt",Ar: Ten
+http://ip4utv.cf:80/test/test/16289
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al-Nahar One
+http://ip4utv.cf:80/test/test/16291
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al-Nahar Drama
+http://ip4utv.cf:80/test/test/16290
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Family
+http://ip4utv.cf:80/test/test/16255
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Life
+http://ip4utv.cf:80/test/test/16256
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Cinema
+http://ip4utv.cf:80/test/test/16258
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Comedy
+http://ip4utv.cf:80/test/test/16259
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Culture
+http://ip4utv.cf:80/test/test/16260
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nile Drama
+http://ip4utv.cf:80/test/test/16261
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Sada El Balad
+http://ip4utv.cf:80/test/test/16288
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Sada ALbalad 2
+http://ip4utv.cf:80/test/test/16287
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Sada El Balad Drama
+http://ip4utv.cf:80/test/test/16286
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Aflam
+http://ip4utv.cf:80/test/test/16271
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Alyoum
+http://ip4utv.cf:80/test/test/16274
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Comedy
+http://ip4utv.cf:80/test/test/16269
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Cinema
+http://ip4utv.cf:80/test/test/16270
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Musalslat
+http://ip4utv.cf:80/test/test/26967
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Apple Hekayat
+http://ip4utv.cf:80/test/test/16272
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Cairo Cinema
+http://ip4utv.cf:80/test/test/16230
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Cairo Drama
+http://ip4utv.cf:80/test/test/16231
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Mix Hollywood
+http://ip4utv.cf:80/test/test/36880
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Tok Tok Aflam
+http://ip4utv.cf:80/test/test/16239
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Tok Tok Cima
+http://ip4utv.cf:80/test/test/16238
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Cima TV
+http://ip4utv.cf:80/test/test/16253
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Egypt",Ar: Cinema 1
+http://ip4utv.cf:80/test/test/16241
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Cinema 2
+http://ip4utv.cf:80/test/test/16240
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Star Cinema 1
+http://ip4utv.cf:80/test/test/16243
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Star Cinema 2
+http://ip4utv.cf:80/test/test/16242
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: PNC Drama
+http://ip4utv.cf:80/test/test/16250
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: PNC Drama 2
+http://ip4utv.cf:80/test/test/16249
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: PNC Film
+http://ip4utv.cf:80/test/test/16251
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: PNC Food
+http://ip4utv.cf:80/test/test/16248
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: PNC Today
+http://ip4utv.cf:80/test/test/16252
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Scare TV
+http://ip4utv.cf:80/test/test/20460
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Oscar TV
+http://ip4utv.cf:80/test/test/46033
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Family Drama
+http://ip4utv.cf:80/test/test/20793
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Family Hikayat
+http://ip4utv.cf:80/test/test/20792
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Sa3a Al youm
+http://ip4utv.cf:80/test/test/20804
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Sa3aa Comedy
+http://ip4utv.cf:80/test/test/20801
+#EXTINF:0 tvg-id="ext" group-title=Egypt",Ar: AL Sa3aa Musalsalat
+http://ip4utv.cf:80/test/test/20799
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Sa3aa Drama
+http://ip4utv.cf:80/test/test/20800
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Sa3aa Classic
+http://ip4utv.cf:80/test/test/20802
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Sa3aa Cinema
+http://ip4utv.cf:80/test/test/20803
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shasha Musalslat
+http://ip4utv.cf:80/test/test/20798
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shasha Classic
+http://ip4utv.cf:80/test/test/20797
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shasha Cinema
+http://ip4utv.cf:80/test/test/20795
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shasha Food
+http://ip4utv.cf:80/test/test/29852
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shasha Film
+http://ip4utv.cf:80/test/test/32846
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Zilzal Classic
+http://ip4utv.cf:80/test/test/20789
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Zilzal Al Youm
+http://ip4utv.cf:80/test/test/42260
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Zilzal Aflam
+http://ip4utv.cf:80/test/test/20791
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Zilzal Musalsalat
+http://ip4utv.cf:80/test/test/20787
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Zilzal Cinema
+http://ip4utv.cf:80/test/test/20790
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Cinema Pro
+http://ip4utv.cf:80/test/test/34752
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Shababik Mosalslat
+http://ip4utv.cf:80/test/test/35532
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Shababik Drama
+http://ip4utv.cf:80/test/test/35533
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Shababik Classic
+http://ip4utv.cf:80/test/test/35534
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Shababik Aflam
+http://ip4utv.cf:80/test/test/35535
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Shababik Drama
+http://ip4utv.cf:80/test/test/16304
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Modern Drama
+http://ip4utv.cf:80/test/test/35536
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Modern Hekayat
+http://ip4utv.cf:80/test/test/35537
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Modern Cinema
+http://ip4utv.cf:80/test/test/35538
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Modern Al Youm
+http://ip4utv.cf:80/test/test/35539
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Modern Aflam
+http://ip4utv.cf:80/test/test/35540
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Show Aflam
+http://ip4utv.cf:80/test/test/35541
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Show Drama
+http://ip4utv.cf:80/test/test/35542
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Show Hakayat
+http://ip4utv.cf:80/test/test/35543
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Show Mosalslat
+http://ip4utv.cf:80/test/test/35544
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Show Cinema
+http://ip4utv.cf:80/test/test/44699
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ORPIT Hekayat
+http://ip4utv.cf:80/test/test/42075
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ORPIT AL Youm
+http://ip4utv.cf:80/test/test/42076
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ORPIT Movies
+http://ip4utv.cf:80/test/test/42077
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ORPIT Cinema
+http://ip4utv.cf:80/test/test/42078
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: ORPIT Drama
+http://ip4utv.cf:80/test/test/42074
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Home Cinema
+http://ip4utv.cf:80/test/test/42072
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Home Drama
+http://ip4utv.cf:80/test/test/42073
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Sha3beyat
+http://ip4utv.cf:80/test/test/20806
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Afrah TV
+http://ip4utv.cf:80/test/test/20805
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Hadath Alyoum
+http://ip4utv.cf:80/test/test/44117
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: AL Shams TV
+http://ip4utv.cf:80/test/test/44118
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: M Drama
+http://ip4utv.cf:80/test/test/44700
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: M Aflam
+http://ip4utv.cf:80/test/test/44701
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Drama Alwan
+http://ip4utv.cf:80/test/test/44702
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: EL Moleed
+http://ip4utv.cf:80/test/test/45866
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Dolly Musalsalat
+http://ip4utv.cf:80/test/test/45867
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Al Youm Zaman
+http://ip4utv.cf:80/test/test/45868
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Masr Om ELDonia
+http://ip4utv.cf:80/test/test/44802
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Mazzika
+http://ip4utv.cf:80/test/test/46293
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Nogoum FM
+http://ip4utv.cf:80/test/test/46039
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Belody Aflam
+http://ip4utv.cf:80/test/test/46365
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: 4G Classic
+http://ip4utv.cf:80/test/test/46364
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: 4G Cima
+http://ip4utv.cf:80/test/test/46363
+#EXTINF:0 tvg-id="ext" group-title="Egypt",Ar: Hekaya Hendy TV
+http://ip4utv.cf:80/test/test/46362
+
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Space Toon
+http://ip4utv.cf:80/test/test/16189
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Batoot Kids
+http://ip4utv.cf:80/test/test/20452
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Majid Kids HD
+http://ip4utv.cf:80/test/test/20454
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Kramesh Kids
+http://ip4utv.cf:80/test/test/20453
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Toyor Baby
+http://ip4utv.cf:80/test/test/16184
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Toyor Al Janah
+http://ip4utv.cf:80/test/test/16185
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: HodHod
+http://ip4utv.cf:80/test/test/16183
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Kids",Ar: Cartoon Network
+http://ip4utv.cf:80/test/test/16188
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Taha
+http://ip4utv.cf:80/test/test/32848
+#EXTINF:0 tvg-id="ext" group-title="Kids",Ar: Atfal W Mawaheb
+http://ip4utv.cf:80/test/test/32849
+
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Ar: Al Jazeera Documentary HD
+http://ip4utv.cf:80/test/test/46304
+#EXTINF:0 tvg-id="ext" group-title="Documentary",Ar: AD Nat Geo HD
+http://ip4utv.cf:80/test/test/16226
+
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Almahriah HD
+http://ip4utv.cf:80/test/test/46376
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Suhail TV
+http://ip4utv.cf:80/test/test/46375
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Sheba TV
+http://ip4utv.cf:80/test/test/46374
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Yemen Shabab HD
+http://ip4utv.cf:80/test/test/46373
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Yemen TV
+http://ip4utv.cf:80/test/test/42079
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Yemen Education TV
+http://ip4utv.cf:80/test/test/42080
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Yemen Documentary
+http://ip4utv.cf:80/test/test/46360
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Yemen Today
+http://ip4utv.cf:80/test/test/42081
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Aden TV
+http://ip4utv.cf:80/test/test/42082
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Belqees
+http://ip4utv.cf:80/test/test/42083
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: AL Shareyyah
+http://ip4utv.cf:80/test/test/42084
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: Hadramout TV
+http://ip4utv.cf:80/test/test/46113
+#EXTINF:0 tvg-id="ext" group-title="Yamen",Ar: HADRAMAUT
+http://ip4utv.cf:80/test/test/46065
+
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestine Sport HD
+http://ip4utv.cf:80/test/test/46361
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestine  TODAY
+http://ip4utv.cf:80/test/test/26919
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestine  TV
+http://ip4utv.cf:80/test/test/26920
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestine Live
+http://ip4utv.cf:80/test/test/26922
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestine News
+http://ip4utv.cf:80/test/test/26923
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Al Salam
+http://ip4utv.cf:80/test/test/26925
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Ajyaal
+http://ip4utv.cf:80/test/test/26926
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Palestinian TV
+http://ip4utv.cf:80/test/test/33185
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Al-Najah Nbc
+http://ip4utv.cf:80/test/test/42815
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Maan TV
+http://ip4utv.cf:80/test/test/42816
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Al Quds Today
+http://ip4utv.cf:80/test/test/42817
+#EXTINF:0 tvg-id="ext" group-title="Palestine",Ar: Al Kofiya
+http://ip4utv.cf:80/test/test/42818
+
+#EXTINF:0 tvg-id="ext" group-title="Bahrain",Ar: Bahrain International TV FHD
+http://ip4utv.cf:80/test/test/16051
+#EXTINF:0 tvg-id="ext" group-title="Bahrain",Ar: Bahrain Sports 1 HD
+http://ip4utv.cf:80/test/test/16054
+#EXTINF:0 tvg-id="ext" group-title="Bahrain",Ar: Bahrain TV HD
+http://ip4utv.cf:80/test/test/16055
+#EXTINF:0 tvg-id="ext" group-title="Bahrain",Ar: Bahrain Sports 2 HD
+http://ip4utv.cf:80/test/test/44510
+#EXTINF:0 tvg-id="ext" group-title="Bahrain",Ar: Bahrain Lawal
+http://ip4utv.cf:80/test/test/44511
+
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syria TV
+http://ip4utv.cf:80/test/test/16098
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Sama Syria
+http://ip4utv.cf:80/test/test/16099
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syria Drama
+http://ip4utv.cf:80/test/test/16100
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syria al Ekhbariya
+http://ip4utv.cf:80/test/test/16102
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syrian TV
+http://ip4utv.cf:80/test/test/16097
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syria Education
+http://ip4utv.cf:80/test/test/16096
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syria Al Yawm HD
+http://ip4utv.cf:80/test/test/16095
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Syriana TV
+http://ip4utv.cf:80/test/test/16094
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Mayadeen TV
+http://ip4utv.cf:80/test/test/16010
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Lana TV HD
+http://ip4utv.cf:80/test/test/46377
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Lana PLus TV
+http://ip4utv.cf:80/test/test/45977
+#EXTINF:0 tvg-id="ext" group-title="Syria",Ar: Al Khabar TV
+http://ip4utv.cf:80/test/test/46035
+
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: NBN Lebanon HD
+http://ip4utv.cf:80/test/test/16209
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: MTV Lebanon HD
+http://ip4utv.cf:80/test/test/16207
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: LBC International HD
+http://ip4utv.cf:80/test/test/16254
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: OTV Lebanon HD
+http://ip4utv.cf:80/test/test/16201
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: LBC HD
+http://ip4utv.cf:80/test/test/16205
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: Tele Lebanon
+http://ip4utv.cf:80/test/test/16208
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: Jadeed HD
+http://ip4utv.cf:80/test/test/16204
+#EXTINF:0 tvg-id="FutureTV.net" group-title="Lebanon",Ar: Future TV
+http://ip4utv.cf:80/test/test/40532
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: AL Manar
+http://ip4utv.cf:80/test/test/16203
+#EXTINF:0 tvg-id="ONE.ca" group-title="Lebanon",Ar: One
+http://ip4utv.cf:80/test/test/46034
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: Hawacom HD
+http://ip4utv.cf:80/test/test/45988
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: Aghani HD
+http://ip4utv.cf:80/test/test/45987
+#EXTINF:0 tvg-id="ext" group-title="Lebanon",Ar: Arabica HD
+
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya 218
+http://ip4utv.cf:80/test/test/16044
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Waad FM
+http://ip4utv.cf:80/test/test/20877
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Sport Channel
+http://ip4utv.cf:80/test/test/20878
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Sports  2HD
+http://ip4utv.cf:80/test/test/46068
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Panorama HD
+http://ip4utv.cf:80/test/test/20880
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Febrayer
+http://ip4utv.cf:80/test/test/20881
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Al Mustaqbal TV
+http://ip4utv.cf:80/test/test/20883
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Alwataniya
+http://ip4utv.cf:80/test/test/20884
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Alrasmia
+http://ip4utv.cf:80/test/test/20885
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Tanasuh TV
+http://ip4utv.cf:80/test/test/20886
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Alhadath
+http://ip4utv.cf:80/test/test/20887
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya Al Ahrar HD
+http://ip4utv.cf:80/test/test/20888
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya 218 News
+http://ip4utv.cf:80/test/test/20889
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libyan TV
+http://ip4utv.cf:80/test/test/20890
+#EXTINF:0 tvg-id="ext" group-title="Libya",Ar: Libya WTV HD
+http://ip4utv.cf:80/test/test/46069
+
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Hurra HD
+http://ip4utv.cf:80/test/test/20814
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: AL Hurra Iraq HD
+http://ip4utv.cf:80/test/test/20815
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Iraqia News HD
+http://ip4utv.cf:80/test/test/20822
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Iraqia Sport HD
+http://ip4utv.cf:80/test/test/20821
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Shabab Sport HD
+http://ip4utv.cf:80/test/test/46283
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Forat News
+http://ip4utv.cf:80/test/test/20820
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Alsharqiya News
+http://ip4utv.cf:80/test/test/20846
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Sumaria HD
+http://ip4utv.cf:80/test/test/20845
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Iraqia HD
+http://ip4utv.cf:80/test/test/20844
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Ows TV HD
+http://ip4utv.cf:80/test/test/20843
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Iraq News FHD
+http://ip4utv.cf:80/test/test/18702
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Rasheed TV HD
+http://ip4utv.cf:80/test/test/20841
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Hona Baghdad
+http://ip4utv.cf:80/test/test/20840
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Rafidain TV
+http://ip4utv.cf:80/test/test/20839
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Afaq TV
+http://ip4utv.cf:80/test/test/20838
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Asia TV
+http://ip4utv.cf:80/test/test/20837
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Samarra TV
+http://ip4utv.cf:80/test/test/20836
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Dijlah TV
+http://ip4utv.cf:80/test/test/20835
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: AL-Anbar
+http://ip4utv.cf:80/test/test/20828
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Ebaa TV
+http://ip4utv.cf:80/test/test/20827
+#EXTINF:0 tvg-id="ext" group-title=Iraq",Ar: Salahaden Tv
+http://ip4utv.cf:80/test/test/20826
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al-Shaaer TV
+http://ip4utv.cf:80/test/test/20825
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Farqadayn TV
+http://ip4utv.cf:80/test/test/20824
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: AL Qamar TV
+http://ip4utv.cf:80/test/test/20819
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Iraq Future TV
+http://ip4utv.cf:80/test/test/20817
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: ALBAEENAH IRAQ
+http://ip4utv.cf:80/test/test/20816
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Imam Ali TV HD
+http://ip4utv.cf:80/test/test/20813
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Anwar
+http://ip4utv.cf:80/test/test/20812
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Anwar TV2
+http://ip4utv.cf:80/test/test/20811
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Imam Hussein 2
+http://ip4utv.cf:80/test/test/20810
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Karbala TV
+http://ip4utv.cf:80/test/test/20809
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Iraq 24 HD
+http://ip4utv.cf:80/test/test/44509
+#EXTINF:0 tvg-id="ext" group-title="Iraq",Ar: Al Falujah HD
+http://ip4utv.cf:80/test/test/20852
+
+
+
+
+
+#EXTINF:-1,SE: 4 Fakta
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25742
+#EXTINF:-1,SE: AL JAZEERA HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25743
+#EXTINF:-1,SE: ANIMAL PLANET FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25744
+#EXTINF:-1,SE: ATG Live
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25746
+#EXTINF:-1,SE: Barnmusik TV FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25747
+#EXTINF:-1,SE: BBC Brit FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25749
+#EXTINF:-1,SE: BBC Earth FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25751
+#EXTINF:-1,SE: BBC WORLD NEWS
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25753
+#EXTINF:-1,SE: BLOOMBERG
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25754
+#EXTINF:-1,SE: BOOMERANG HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25755
+#EXTINF:-1,SE: C More First FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25756
+#EXTINF:-1,SE: C More Fotboll HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25757
+#EXTINF:-1,SE: C More GOLF HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25758
+#EXTINF:-1,SE: C More Hits FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25759
+#EXTINF:-1,SE: C More HOCKEY HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25760
+#EXTINF:-1,SE: C More Juniori HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25761
+#EXTINF:-1,SE: C More Live 1 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25763
+#EXTINF:-1,SE: C More LIVE 2 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25764
+#EXTINF:-1,SE: C More LIVE 3 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25765
+#EXTINF:-1,SE: C More LIVE 4 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25766
+#EXTINF:-1,SE: C More LIVE 5 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25767
+#EXTINF:-1,SE: C More Live FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25768
+#EXTINF:-1,SE: C More MAX HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25769
+#EXTINF:-1,SE: C More Series FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25770
+#EXTINF:-1,SE: C More Sport 2 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25771
+#EXTINF:-1,SE: C More Sport HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25772
+#EXTINF:-1,SE: C More Stars FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25773
+#EXTINF:-1,SE: Cartoon Network HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25774
+#EXTINF:-1,SE: CBS REALITY
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25776
+#EXTINF:-1,SE: CNBC
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25777
+#EXTINF:-1,SE: CNN News FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25778
+#EXTINF:-1,SE: COMEDY CENTRAL HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25779
+#EXTINF:-1,SE: Dagens Industri TV
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25780
+#EXTINF:-1,SE: Discovery Channel HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25781
+#EXTINF:-1,SE: Discovery Science HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25783
+#EXTINF:-1,SE: Discovery World HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25785
+#EXTINF:-1,SE: Disney Channel HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25787
+#EXTINF:-1,SE: Disney Jr
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25789
+#EXTINF:-1,SE: Disney XD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25791
+#EXTINF:-1,SE: Disney+ HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25793
+#EXTINF:-1,SE: E! HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25794
+#EXTINF:-1,SE: EXPRESSEN TV
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25800
+#EXTINF:-1,SE: FIGHT Sports
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25801
+#EXTINF:-1,SE: FOX HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25802
+#EXTINF:-1,SE: H2 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25803
+#EXTINF:-1,SE: Himlen TV7 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25804
+#EXTINF:-1,SE: History Channel HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25805
+#EXTINF:-1,SE: HORSE & COUNTRY TV
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25807
+#EXTINF:-1,SE: I Discovery Sverige
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25808
+#EXTINF:-1,SE: Investigation Discovery HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25809
+#EXTINF:-1,SE: Kanal 5 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25811
+#EXTINF:-1,SE: Kanal 5 Sverige
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25812
+#EXTINF:-1,SE: kanal 9 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25813
+#EXTINF:-1,SE: Kanal 10 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25814
+#EXTINF:-1,SE: Kanal 11 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25815
+#EXTINF:-1,SE: KUNSKAPS KANALEN HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25816
+#EXTINF:-1,SE: kunskapskalen
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25817
+#EXTINF:-1,SE: Kunskapskanalen FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25818
+#EXTINF:-1,SE: Miracle Channel HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25819
+#EXTINF:-1,SE: Mission Asia
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25820
+#EXTINF:-1,SE: Motorsport.TV HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25821
+#EXTINF:-1,SE: MTV HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25822
+#EXTINF:-1,SE: MTV MUSIC
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25823
+#EXTINF:-1,SE: MTV ROCKS
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25825
+#EXTINF:-1,SE: MTV Sweden
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25827
+#EXTINF:-1,SE: MYSPORTS 1 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25828
+#EXTINF:-1,SE: MySports 5 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25829
+#EXTINF:-1,SE: MySports 7 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25830
+#EXTINF:-1,SE: MySports 8 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25831
+#EXTINF:-1,SE: NAT GEO FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25832
+#EXTINF:-1,SE: NAT GEO Wild FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25834
+#EXTINF:-1,SE: Nick Junior HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25836
+#EXTINF:-1,SE: nickelodeon HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25838
+#EXTINF:-1,SE: NickToons
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25840
+#EXTINF:-1,SE: OPPNA KANALEN
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25842
+#EXTINF:-1,SE: Paramount Network HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25843
+#EXTINF:-1,SE: RTS UN HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25844
+#EXTINF:-1,SE: SF-KANALEN HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25845
+#EXTINF:-1,SE: Sjuan FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25846
+#EXTINF:-1,SE: Sport Premium HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25847
+#EXTINF:-1,SE: Sportkanalen FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25848
+#EXTINF:-1,SE: SRF 1 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
+#EXTINF:-1,SE: STORTINGET
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25850
+#EXTINF:-1,SE: STV 1 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25851
+#EXTINF:-1,SE: SVt 1 Dalarna
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25852
+#EXTINF:-1,SE: SVT 1 Värmland
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25853
+#EXTINF:-1,SE: SVT 24/B FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25854
+#EXTINF:-1,SE: svt BARN HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25855
+#EXTINF:-1,SE: SVT Barnkanalen
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25856
+#EXTINF:-1,SE: SVT Barnkanalen/SVT24
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25857
+#EXTINF:-1,SE: SVT1 Gävleborg
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25858
+#EXTINF:-1,SE: SVT1 Jämtland
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25859
+#EXTINF:-1,SE: SVT1 Jönköping
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25860
+#EXTINF:-1,SE: SVT1 Örebro
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25861
+#EXTINF:-1,SE: SVT1 Öst
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25862
+#EXTINF:-1,SE: SVTB SVT 24 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25863
+#EXTINF:-1,SE: TCM
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25864
+#EXTINF:-1,SE: TCM Sverige HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25865
+#EXTINF:-1,SE: TELECLUB CINEMA HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25866
+#EXTINF:-1,SE: Teleclub Sport 1 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25867
+#EXTINF:-1,SE: Teleclub Sport 2 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25868
+#EXTINF:-1,SE: TLC FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25869
+#EXTINF:-1,SE: TLC Sverige
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25870
+#EXTINF:-1,SE: Travel Channel HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25871
+#EXTINF:-1,SE: TV11 HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25873
+#EXTINF:-1,SE: TV12 Sweden HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25874
+#EXTINF:-1,SE: TV2 SPORT PREMIUM
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25875
+#EXTINF:-1,SE: TV3 SVERGIE
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25876
+#EXTINF:-1,SE: TV3 Sverige
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25877
+#EXTINF:-1,SE: TV3 Sweden FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25878
+#EXTINF:-1,SE: TV4 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25879
+#EXTINF:-1,SE: TVO HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25880
+#EXTINF:-1,SE: V Sport Football FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25881
+#EXTINF:-1,SE: V Sport Hockey FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25882
+#EXTINF:-1,SE: V2 Sport Premium
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25883
+#EXTINF:-1,SE: VH1
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25884
+#EXTINF:-1,SE: VH1 Classic
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25886
+#EXTINF:-1,SE: VIASAT 4
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25888
+#EXTINF:-1,SE: Viasat Action
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25889
+#EXTINF:-1,SE: VIASAT EXPLORE FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25890
+#EXTINF:-1,SE: Viasat Explorer HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25891
+#EXTINF:-1,SE: Viasat Film Action FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25892
+#EXTINF:-1,SE: Viasat Film Comedy HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25893
+#EXTINF:-1,SE: Viasat Film Family HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25894
+#EXTINF:-1,SE: Viasat Film Hits FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25895
+#EXTINF:-1,SE: Viasat Film Premiere HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25896
+#EXTINF:-1,SE: VIASAT FILM Series
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25897
+#EXTINF:-1,SE: VIASAT FOOTBALL FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25898
+#EXTINF:-1,SE: Viasat Golf HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25899
+#EXTINF:-1,SE: Viasat History FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25900
+#EXTINF:-1,SE: VIASAT HOCKEY HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25902
+#EXTINF:-1,SE: Viasat Motor HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25903
+#EXTINF:-1,SE: Viasat Nature FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25904
+#EXTINF:-1,SE: Viasat Premiere
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25905
+#EXTINF:-1,SE: Viasat Series HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25906
+#EXTINF:-1,SE: Viasat Sport Extra
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25907
+#EXTINF:-1,SE: Viasat Sport FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25908
+#EXTINF:-1,SE: Viasat Sport Golf
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25909
+#EXTINF:-1,SE: VIASAT Sport Premium FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25910
+#EXTINF:-1,SE: Viasat Sport Xtra FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25911
+#EXTINF:-1,SE: Viasatries HD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25912
+#EXTINF:-1,SE: Yle TV1 FHD
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25913
+
+
+
+#EXTINF:-1,EXYU| SPORT KLUB 1 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30281
+#EXTINF:-1,EXYU| SPORT KLUB 2 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30280
+#EXTINF:-1,EXYU| SPORT KLUB 3 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30279
+#EXTINF:-1,EXYU| SPORT KLUB 4 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30278
+#EXTINF:-1,EXYU| SPORT KLUB 5 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30277
+#EXTINF:-1,EXYU| SPORT KLUB 6 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/30276
+#EXTINF:-1,PT| SPORT TV 1 FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4494
+#EXTINF:-1,PT| SPORT TV 2 FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4493
+#EXTINF:-1,PT| SPORT TV 3 FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4492
+#EXTINF:-1,PT| SPORT TV 4 FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4491
+#EXTINF:-1,PT| SPORT TV 5 FHD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4490
+#EXTINF:-1,PT| SPORTING TV
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/4451
+#EXTINF:-1,PT| ELEVEN SPORT 1 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9287
+#EXTINF:-1,PT| ELEVEN SPORT 2 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9288
+#EXTINF:-1,PT| ELEVEN SPORT 3 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9289
+#EXTINF:-1,PT| ELEVEN SPORT 4 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9290
+#EXTINF:-1,PT| ELEVEN SPORT 5 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9291
+#EXTINF:-1,PT| ELEVEN SPORT 6 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9292
+#EXTINF:-1,UK: BT SPORT 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3761
+#EXTINF:-1,UK: BT SPORT 1 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6198
+#EXTINF:-1,UK: BT SPORT 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3760
+#EXTINF:-1,UK: BT SPORT 2 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6199
+#EXTINF:-1,UK: BT SPORT 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/3759
+#EXTINF:-1,UK: BT SPORT 3 *
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/6197
+#EXTINF:-1,UK: BT SPORT EXTRA
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56509
+#EXTINF:-1,UK: BT SPORT EXTRA 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56511
+#EXTINF:-1,UK: BT SPORT EXTRA 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56512
+#EXTINF:-1,UK: BT SPORT EXTRA 3
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56513
+#EXTINF:-1,UK: BT SPORT EXTRA 4
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/56514
+#EXTINF:-1,UK: PREMIER SPORTS 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/9293
+#EXTINF:-1,AL| Super Sport 1 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2202
+#EXTINF:-1,AL| Super Sport 2 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2201
+#EXTINF:-1,AL| Super Sport 3 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2200
+#EXTINF:-1,AL| Super Sport 4 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2199
+#EXTINF:-1,AL| Super Sport 5 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2198
+#EXTINF:-1,AL| SUPER SPORT 6 HD
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2197
+#EXTINF:-1,AL| SUPER SPORT KOSOVA 1
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2170
+#EXTINF:-1,AL| SUPER SPORT KOSOVA 2
+http://ip.trboss.net:80/dindin/sdfsjfujskrez/2169
+
+#EXTINF:-1,RS: Arena Sport 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/60225
+#EXTINF:-1,RS: Arena Sport 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/263691
+#EXTINF:-1,RS: Arena Sport 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3463
+#EXTINF:-1,RS: Arena Sport 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3606
+#EXTINF:-1,RS: Arena Sport 5 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/201020
+#EXTINF:-1,RS: Arena Sport 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/36922
+#EXTINF:-1,RS: Sport Klub 1 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4203
+#EXTINF:-1,RS: Sport Klub 2 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4204
+#EXTINF:-1,RS: Sport Klub 3 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/4205
+#EXTINF:-1,RS: Sport Klub 4 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/5563
+#EXTINF:-1,RS: Sport Klub 5 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10752
+#EXTINF:-1,RS: Sport Klub 6 HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10753
+#EXTINF:-1,RS: Sport Klub Golf
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65902
+
+#EXTINF:-1,UK | EFL 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178108
+#EXTINF:-1,UK | EFL 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178109
+#EXTINF:-1,UK | EFL 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178110
+#EXTINF:-1,UK | EFL 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178111
+#EXTINF:-1,UK | EFL 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178112
+#EXTINF:-1,UK | EFL 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178113
+#EXTINF:-1,UK | EFL 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178114
+#EXTINF:-1,UK | EFL 8
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178115
+#EXTINF:-1,UK | EFL 9
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178116
+#EXTINF:-1,UK | EFL 10
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/178117
+#EXTINF:-1,NHL 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142636
+#EXTINF:-1,NHL 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142637
+#EXTINF:-1,NHL 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142638
+#EXTINF:-1,NHL 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142639
+#EXTINF:-1,NHL 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142640
+#EXTINF:-1,NHL 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142641
+#EXTINF:-1,NHL 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142642
+#EXTINF:-1,NHL 8
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142643
+#EXTINF:-1,NHL 9
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142644
+#EXTINF:-1,NHL 10
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142645
+#EXTINF:-1,NHL 11
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142646
+#EXTINF:-1,NHL 12
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142647
+#EXTINF:-1,NHL 13
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142648
+#EXTINF:-1,NHL 14
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142649
+#EXTINF:-1,NHL 15
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142650
+#EXTINF:-1,NHL GAME 1:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142680
+#EXTINF:-1,NHL GAME 2:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142681
+#EXTINF:-1,NHL GAME 3:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142682
+#EXTINF:-1,NHL GAME 4:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142683
+#EXTINF:-1,NHL GAME 5:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142684
+#EXTINF:-1,NHL GAME 6:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142685
+#EXTINF:-1,NHL GAME 7:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142686
+#EXTINF:-1,NHL GAME 8:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142687
+#EXTINF:-1,NHL GAME 9:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142688
+#EXTINF:-1,NHL GAME 10:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142689
+#EXTINF:-1,NHL GAME 11:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142690
+#EXTINF:-1,NHL GAME 12:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142691
+#EXTINF:-1,NHL GAME 13:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142692
+#EXTINF:-1,NHL GAME 14:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142693
+#EXTINF:-1,NHL GAME 15:
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142694
+#EXTINF:-1,MLB 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103486
+#EXTINF:-1,MLB 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103487
+#EXTINF:-1,MLB 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103488
+#EXTINF:-1,MLB 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103489
+#EXTINF:-1,MLB 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103490
+#EXTINF:-1,MLB 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103491
+#EXTINF:-1,MLB 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103492
+#EXTINF:-1,MLB 8
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103493
+#EXTINF:-1,MLB 9
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103494
+#EXTINF:-1,MLB 10
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103495
+#EXTINF:-1,MLB 11
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103496
+#EXTINF:-1,MLB 12
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103497
+#EXTINF:-1,MLB 13
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103498
+#EXTINF:-1,MLB 14
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103499
+#EXTINF:-1,MLB 15
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103500
+#EXTINF:-1,MLB 16
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103501
+#EXTINF:-1,MLB 17
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103502
+#EXTINF:-1,MLB 18
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103503
+#EXTINF:-1,MLB 19
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103504
+#EXTINF:-1,MLB 20
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/103505
+#EXTINF:-1,NBA 1
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142664
+#EXTINF:-1,NBA 2
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142665
+#EXTINF:-1,NBA 3
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142666
+#EXTINF:-1,NBA 4
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142667
+#EXTINF:-1,NBA 5
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142668
+#EXTINF:-1,NBA 6
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142669
+#EXTINF:-1,NBA 7
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142670
+#EXTINF:-1,NBA 8
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142671
+#EXTINF:-1,NBA 9
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142672
+#EXTINF:-1,NBA 10
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142673
+#EXTINF:-1,NBA 12
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142676
+#EXTINF:-1,NBA 13
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142677
+#EXTINF:-1,NBA 14
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142678
+#EXTINF:-1,NBA 15
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/142679
+#EXTINF:-1,NBA TV
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/143148
+#EXTINF:-1,Sport TV NBA HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/143179
+#EXTINF:-1,MLB Network
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/169245
+#EXTINF:-1,SPORT HD 1 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102924
+#EXTINF:-1,SPORT HD 2 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102925
+#EXTINF:-1,SPORT HD 3 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102926
+#EXTINF:-1,SPORT HD 4 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102927
+#EXTINF:-1,SPORT HD 5 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102928
+#EXTINF:-1,SPORT HD 6 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102929
+#EXTINF:-1,SPORT HD 7 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102930
+#EXTINF:-1,SPORT HD 8 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102931
+#EXTINF:-1,SPORT HD 9 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102932
+#EXTINF:-1,SPORT HD 10 
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/102933
+#EXTINF:-1,SPORT | Arena Sport 1 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97717
+#EXTINF:-1,SPORT | Arena Sport 2 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97718
+#EXTINF:-1,SPORT | Arena Sport 3 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97719
+#EXTINF:-1,SPORT | Arena Sport 4 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97720
+#EXTINF:-1,SPORT | Arena Sport 5 (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97721
+#EXTINF:-1,SPORT | Arena Sport 1 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97722
+#EXTINF:-1,SPORT | Arena Sport 2 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97723
+#EXTINF:-1,SPORT | Arena Sport 3 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97724
+#EXTINF:-1,SPORT | Arena Sport 4 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97725
+#EXTINF:-1,SPORT | Arena Sport 5 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97726
+#EXTINF:-1,SPORT | Arena Sport 6 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97727
+#EXTINF:-1,SPORT | Fight Channel HR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97736
+#EXTINF:-1,SPORT | Moja TV Premier Liga BHT
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97737
+#EXTINF:-1,SPORT | Nova Sport BH
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97738
+#EXTINF:-1,SPORT | Nova Sport SR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97739
+#EXTINF:-1,SPORT | Planet Sport 1 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97740
+#EXTINF:-1,SPORT | Planet Sport 2 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97741
+#EXTINF:-1,SPORT | Planet Sport 3 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97742
+#EXTINF:-1,SPORT | Planet Sport 4 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97743
+#EXTINF:-1,SPORT | Planet Sport 5 HD
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97744
+#EXTINF:-1,SPORT | Sport Klub 1 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97745
+#EXTINF:-1,SPORT | Sport Klub 2 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97746
+#EXTINF:-1,SPORT | Sport Klub 3 HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97747
+#EXTINF:-1,SPORT | Sport Klub 4 (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97748
+#EXTINF:-1,SPORT | Sport Klub 5 (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97749
+#EXTINF:-1,SPORT | Sport Klub 6 (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97750
+#EXTINF:-1,SPORT | Sport Klub 7 SR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97751
+#EXTINF:-1,SPORT | Sport Klub 8 SR
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97752
+#EXTINF:-1,SPORT | Sport Klub 1 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97754
+#EXTINF:-1,SPORT | Sport Klub 2 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97755
+#EXTINF:-1,SPORT | Sport Klub 3 HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97756
+#EXTINF:-1,SPORT | Sport Klub 4 (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97757
+#EXTINF:-1,SPORT | Sport Klub 5 (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97758
+#EXTINF:-1,SPORT | Sport Klub 6 (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97759
+#EXTINF:-1,SPORT | Sport Klub HD (HR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97760
+#EXTINF:-1,SPORT | Sport Klub HD (SR)
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97761
+#EXTINF:-1,SPORT | Sport Klub Golf
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97762
+#EXTINF:-1,SPORT | Sport TV 1 SLO
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97763
+#EXTINF:-1,SPORT | Sport TV 2 SLO
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97764
+#EXTINF:-1,SPORT | Sport TV 3 SLO
+http://directtv1.xyz:80/eleganttv/R7N2ekbzZS/97765
+
