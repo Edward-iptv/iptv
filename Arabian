@@ -1,0 +1,86 @@
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AL AOULA INTER
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1028
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AL AOULA_INTER
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1017
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AL AOULA LAAYOUNE
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1016
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   2M 
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1026
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   2M NAT
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1015
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   ARRIADIA 3
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1014
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   ATHAKAFIA 4
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1013
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AL MAGHRIBIA 5
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1012
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   ASSADISSA 6
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1011
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   ASSABIA 7
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1010
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   TAMAZIGHT 8
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1009
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   CANAL ATLAS
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1008
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   CHADA
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1020
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MAGHARIBIA 1
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1036
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MAGHARIBIA 2
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1035
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MEDI 1 TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1027
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MEDI1_AFRIQUE
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1018
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MEDI1_TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1019
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   TELE_MAROC
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1007
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   COMEDY 1
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/62814
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   COMEDY 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/62815
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MAROC COMEDY 3
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/62816
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AFLAM
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/62818
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   AFLAM 2
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/62819
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   ISLAM HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/65267
+#EXTINF:0 tvg-id="ext" group-title="Morocco",MA:   MAROC ANASHID HD
+http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/65268
+
+
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-AL INSENE
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1052
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-AL JANOUBIA
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1059
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-AL MUSTAKILAH
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1051
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-ATTESSIA TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1065
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-CARTHAGE
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1055
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-ELHIWAR ETTOUNSI TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1067
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-ETTOUNSIA TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1050
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-HANNIBAL TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1060
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-M TUNISIA
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1056
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-NESSMA TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1062
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-TELVZA TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1054
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-TOUNESNA
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1057
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-TUNISIE NAT 1TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1071
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-TUNISIE NAT 2TV
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1069
+#EXTINF:0 tvg-id="ext" group-title="Tunisia",AR:TNT-ZAYTOUNA
+http://server.shamelforyou.net:8080/C0:48:e6:51:11:00/uIlQJ4roq5/1053
