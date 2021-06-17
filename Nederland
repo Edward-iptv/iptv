@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1
+http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/795
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2
+http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/796
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3
+http://dvb.mine.nu:8000/kup/bnkRJ8a4ZG/797
