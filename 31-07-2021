@@ -1,0 +1,541 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",## NEDERLAND | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38527
+#EXTINF:0 tvg-id="NPO1.nl" group-title="NEDERLAND HD",NPO 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18505
+#EXTINF:0 tvg-id="NPO2.nl" group-title="NEDERLAND HD",NPO 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18504
+#EXTINF:0 tvg-id="NPO3.nl" group-title="NEDERLAND HD",NPO 3 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18503
+#EXTINF:0 tvg-id="RTL4.nl" group-title="NEDERLAND HD",RTL 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18494
+#EXTINF:0 tvg-id="RTL5.nl" group-title="NEDERLAND HD",RTL 5 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18493
+#EXTINF:0 tvg-id="RTL7.nl" group-title="NEDERLAND HD",RTL 7 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18492
+#EXTINF:0 tvg-id="RTL8.nl" group-title="NEDERLAND HD",RTL 8 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18491
+#EXTINF:0 tvg-id="RTLZ.nl" group-title="NEDERLAND HD",RTL Z HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18487
+#EXTINF:0 tvg-id="NET5.nl" group-title="NEDERLAND HD",NET 5 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18513
+#EXTINF:0 tvg-id="SBS6.nl" group-title="NEDERLAND HD",SBS 6 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18485
+#EXTINF:0 tvg-id="SBS9.nl" group-title="NEDERLAND HD",SBS 9 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18484
+#EXTINF:0 tvg-id="VeronicaDisneyXD.nl" group-title="NEDERLAND HD",VERONICA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18473
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",NPO CULTURA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18502
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",NPO NIEUWS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18501
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",NPO POLITIEK HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18500
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",##  KINDEREN | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38528
+#EXTINF:0 tvg-id="NickJuniorHD.cl" group-title="NEDERLAND HD",NICK JUNIOR HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18510
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",NICK MUSIC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18509
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="NEDERLAND HD",NICKELODEON HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18508
+#EXTINF:0 tvg-id="NickelodeonHD.pl" group-title="NEDERLAND HD",NICKTOONS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18507
+#EXTINF:0 tvg-id="Disney.uk" group-title="NEDERLAND HD",DISNEY CHANNEL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18542
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="NEDERLAND HD",DISNEY JUNIOR HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18541
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="NEDERLAND HD",DISNEY XD HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18540
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="NEDERLAND HD",BABY TV HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18553
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="NEDERLAND HD",BOOMERANG HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18552
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="NEDERLAND HD",CARTOON NETWORK HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18551
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",## MUZIEK | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38529
+#EXTINF:0 tvg-id="mezzo-hd" group-title="NEDERLAND HD",MEZZO HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18517
+#EXTINF:0 tvg-id="MTV.uk" group-title="NEDERLAND HD",MTV HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18515
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="NEDERLAND HD",MTV MUSIC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18514
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",## FILMS EN SERIES | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38530
+#EXTINF:0 tvg-id="Film1Action.nl" group-title="NEDERLAND HD",FILM 1 ACTION HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18535
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FILM 1 DRAMA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18534
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FILM 1 FAMILY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18533
+#EXTINF:0 tvg-id="Film1Premiere.nl" group-title="NEDERLAND HD",FILM 1 PREMIERE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18532
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",##  ENTERTAINMENT | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38531
+#EXTINF:0 tvg-id="CrimeInvestigation.it" group-title="NEDERLAND HD",CRIME INVESTIGATION HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18547
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="NEDERLAND HD",RTL CRIME HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18490
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",RTL LOUNGE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18489
+#EXTINF:0 tvg-id="E.uk" group-title="NEDERLAND HD",E! HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18539
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="NEDERLAND HD",24 KITCHEN HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18556
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",ONS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18495
+#EXTINF:0 tvg-id="TLC.uk" group-title="NEDERLAND HD",TLC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18482
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",##  NATUUR | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38532
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="NEDERLAND HD",DISCOVERY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18546
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="NEDERLAND HD",ANIMAL PLANET HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18555
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="NEDERLAND HD",DISCOVERY SCIENCE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18545
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="NEDERLAND HD",DISCOVERY WORLD HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18544
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",DISCOVERY INVESTIGATION HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18543
+#EXTINF:0 tvg-id="History.uk" group-title="NEDERLAND HD",HISTORY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18520
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="NEDERLAND HD",NAT GEO WILD HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18511
+#EXTINF:0 tvg-id="TravelChannelHD.eu" group-title="NEDERLAND HD",TRAVEL CHANNEL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18481
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",## SPORT | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38533
+#EXTINF:0 tvg-id="ESPN.nl" group-title="NEDERLAND HD",FOX SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18529
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="NEDERLAND HD",FOX SPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18528
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FOX SPORT 3 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18527
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FOX SPORT 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18526
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FOX SPORT 5 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18525
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",FOX SPORT 6 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18524
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="NEDERLAND HD",EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18538
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="NEDERLAND HD",EUROSPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18537
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",MOTOR SPORT HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18516
+#EXTINF:0 tvg-id="extreme-sports" group-title="NEDERLAND HD",EXTREME SPORTS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18536
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",##  REGIONALE | HD ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38534
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",COMEDY CENTRAL EXTRA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18549
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",192 TV HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18557
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",AT 5 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18554
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="NEDERLAND HD",COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18550
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",COMEDY CENTRAL FAMILY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18548
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="NEDERLAND HD",FOOD NETWORK HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18531
+#EXTINF:0 tvg-id="FX.uk" group-title="NEDERLAND HD",FOX HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18530
+#EXTINF:0 tvg-id="Ketnet.be" group-title="NEDERLAND HD",KETNET HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18519
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",L1 LIMBURG HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18518
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="NEDERLAND HD",NATIONAL GEOGRAPHIC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18512
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",OMROEP BRABANT HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18499
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",OMROEP FLEVOLAND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18498
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",OMROEP FRYSLAND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18497
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",RTL TELEKIDS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18488
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",RTV UTRECHT HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18486
+#EXTINF:0 tvg-id="Spike.nl" group-title="NEDERLAND HD",SPIKE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18483
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV DRENTHE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18480
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV GELDERLAND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18479
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV NOORD HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18478
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV OOST HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18477
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV ORANJE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18476
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV RIJNMOND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18475
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",TV WEST HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18474
+#EXTINF:0 tvg-id="OmroepZeeland.nl" group-title="NEDERLAND HD",OMROEP ZEELAND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/18496
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",ZIGGO SPORT EXTRA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/59331
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="NEDERLAND HD",ZIGGO SPORT GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/59332
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="NEDERLAND HD",ZIGGO SPORT RACING HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/59333
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="NEDERLAND HD",ZIGGO SPORT SELECT HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/59334
+#EXTINF:0 tvg-id="ext" group-title="NEDERLAND HD",ZIGGO VOETBAL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/59335
+
+
+
+
+#EXTINF:0 tvg-id="AB3.be" group-title="BELGUIM FULL HD ",AB3 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64456
+#EXTINF:0 tvg-id="Canvas.be" group-title="BELGUIM FULL HD ",CANVAS FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64457
+#EXTINF:0 tvg-id="Canvas.be" group-title="BELGUIM FULL HD ",Canvas HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64458
+#EXTINF:0 tvg-id="een.be" group-title="BELGUIM FULL HD ",EEN FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64459
+#EXTINF:0 tvg-id="een.be" group-title="BELGUIM FULL HD ",EEN HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64460
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUE 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64461
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUE 1 HD  (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64462
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUE 1 HD (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64463
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUE 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64464
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUES 1 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64465
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUES 2 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64466
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVEN PRO LEAGUES 3 FHD (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64467
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 1 (BE)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64468
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 1 (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64469
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 2 (BE)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64470
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 2 (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64471
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 3 (BE)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64472
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ELEVENSPORT 3 (FR)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64473
+#EXTINF:0 tvg-id="Ketnet.be" group-title="BELGUIM FULL HD ",KETNET
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64474
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64475
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64476
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64477
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64478
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 3
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64479
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 3 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64480
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 4
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64481
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PLAY SPORTS 5
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64482
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",Play Sports GOLF HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64483
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PROXIMUS 11 SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64484
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",PROXIMUS 11 SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64485
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VIER FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64486
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VIER HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64487
+#EXTINF:0 tvg-id="Vijf.be" group-title="BELGUIM FULL HD ",VIJF
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64488
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VIJF HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64489
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VOO SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64490
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VOO SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64491
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VOO SPORT WORLD 1 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64492
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VOO SPORT WORLD 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64493
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VOO SPORT WORLD 3 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64494
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VTM 2 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64495
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",VTM 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64496
+#EXTINF:0 tvg-id="VTM3.be" group-title="BELGUIM FULL HD ",VTM 3
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64497
+#EXTINF:0 tvg-id="VTM4.be" group-title="BELGUIM FULL HD ",VTM 4
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64498
+#EXTINF:0 tvg-id="Vtm.be" group-title="BELGUIM FULL HD ",VTM FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64499
+#EXTINF:0 tvg-id="Vtm.be" group-title="BELGUIM FULL HD ",VTM HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64500
+#EXTINF:0 tvg-id="vtmKIDS.be" group-title="BELGUIM FULL HD ",VTM Kids
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64501
+#EXTINF:0 tvg-id="Zes.be" group-title="BELGUIM FULL HD ",ZES
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64502
+#EXTINF:0 tvg-id="ext" group-title="BELGUIM FULL HD ",ZES HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/64503
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  BBC  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38560
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="UNITED KINGDOM",BBC 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38561
+#EXTINF:0 tvg-id="BBC2.uk" group-title="UNITED KINGDOM",BBC 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38562
+#EXTINF:0 tvg-id="BBC4.uk" group-title="UNITED KINGDOM",BBC 4 HD / CBEEBIES HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38563
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="UNITED KINGDOM",BBC NEWS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38564
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",BBC ONE SCOTTLAND HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38565
+#EXTINF:0 tvg-id="BBC1Wales.uk" group-title="UNITED KINGDOM",BBC ONE WALES HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38566
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  UK KIDS  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38567
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="UNITED KINGDOM",BABY TV
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38568
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="UNITED KINGDOM",BLOOMBERG HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38569
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="UNITED KINGDOM",CARTOON NETWORK
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38570
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="UNITED KINGDOM",BOOMERANG
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38571
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="UNITED KINGDOM",CARTOON NETWORK HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38572
+#EXTINF:0 tvg-id="Disney.uk" group-title="UNITED KINGDOM",DISNEY CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38573
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="UNITED KINGDOM",DISNEY JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38574
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="UNITED KINGDOM",DISNEY XD HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38577
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="UNITED KINGDOM",NICK HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38578
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="UNITED KINGDOM",NICK JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38580
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="UNITED KINGDOM",NICK TOONS
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38582
+#EXTINF:0 tvg-id="nickelod" group-title="UNITED KINGDOM",NICKELODEON EUROPE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38583
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  MOVIES UK  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38584
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA ACTION
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38585
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY ATLANTIC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38586
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA ACTION MAN FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38587
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA COMEDY FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38588
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA DISNEY FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38589
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA DRAMA & ROMANCE FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38590
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY  CINEMA FAMILY FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38591
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA GREATS FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38592
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA HEROES FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38593
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA PREMIER FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38594
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA SCI-FI FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38595
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA SELECT FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38596
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY CINEMA THRILLER FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38597
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY ONE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38598
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="UNITED KINGDOM",TRUE MOVIES
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38599
+#EXTINF:0 tvg-id="TrueMovies2.uk" group-title="UNITED KINGDOM",TRUE MOVIES 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38600
+#EXTINF:0 tvg-id="StarGold.uk" group-title="UNITED KINGDOM",Star Gold
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38601
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="UNITED KINGDOM",SYFY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38602
+#EXTINF:0 tvg-id="TCM.uk" group-title="UNITED KINGDOM",TCM HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38603
+#EXTINF:0 tvg-id="Film4.uk" group-title="UNITED KINGDOM",FILM 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38604
+#EXTINF:0 tvg-id="FX.uk" group-title="UNITED KINGDOM",FOX HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38605
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="UNITED KINGDOM",CBS DRAMA
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38606
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="UNITED KINGDOM",CBS ACTION
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38607
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="UNITED KINGDOM",CBS REALITY
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38608
+#EXTINF:0 tvg-id="CBSReality1.uk" group-title="UNITED KINGDOM",CBS REALITY 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38609
+#EXTINF:0 tvg-id="Channel4.uk" group-title="UNITED KINGDOM",CHANNEL 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38610
+#EXTINF:0 tvg-id="Channel5.uk" group-title="UNITED KINGDOM",CHANNEL 5 FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38611
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UNITED KINGDOM",COMEDY CENTRAL
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38612
+#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="UNITED KINGDOM",COMEDY CENTRAL EXTRA
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38613
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="UNITED KINGDOM",COMEDY CENTRAL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38614
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  MUSIC  UK  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38615
+#EXTINF:0 tvg-id="More4.uk" group-title="UNITED KINGDOM",MORE 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38616
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="UNITED KINGDOM",LIFETIME HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38617
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="UNITED KINGDOM",Movies4men
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38618
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="UNITED KINGDOM",MTV BASE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38619
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="UNITED KINGDOM",MTV CLASSIC
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38620
+#EXTINF:0 tvg-id="MTVDance.eu" group-title="UNITED KINGDOM",MTV DANCE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38621
+#EXTINF:0 tvg-id="MTV.uk" group-title="UNITED KINGDOM",MTV HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38622
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="UNITED KINGDOM",MTV HITS
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38623
+#EXTINF:0 tvg-id="MTVLiveHD.eu" group-title="UNITED KINGDOM",MTV LIVE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38624
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="UNITED KINGDOM",MTV MUSIC UK
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38625
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",MTV ONE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38626
+#EXTINF:0 tvg-id="MTVRocks.eu" group-title="UNITED KINGDOM",MTV ROCKS
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38627
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",## ENTERTAINMENT UK ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38628
+#EXTINF:0 tvg-id="TG4.ie" group-title="UNITED KINGDOM",TG 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38629
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="UNITED KINGDOM",TINY POP
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38630
+#EXTINF:0 tvg-id="tinypop1.uk" group-title="UNITED KINGDOM",TINY POP  1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38631
+#EXTINF:0 tvg-id="TLC.uk" group-title="UNITED KINGDOM",TLC HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38632
+#EXTINF:0 tvg-id="travel" group-title="UNITED KINGDOM",TRAVEL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38633
+#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="UNITED KINGDOM",TRUE ENTERTAINMENT
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38634
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  CULTURE UK ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38635
+#EXTINF:0 tvg-id="NGCHD.uk" group-title="UNITED KINGDOM",NAT GEO HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38636
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="UNITED KINGDOM",NAT GEO WILD FHD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38637
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="UNITED KINGDOM",DISCOVERY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38638
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="UNITED KINGDOM",ANIMAL PLANET HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38639
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",CI HD (CRIME AND INVESTIGATION)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38640
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",---  SPORT UK ---
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38641
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",BT Sports 1 | HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38642
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",BT Sports 2 | HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38643
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",BT Sports 3 | HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38644
+#EXTINF:0 tvg-id="MUTV.uk" group-title="UNITED KINGDOM",MUTV HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38645
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT NEWS
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38646
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT ACTION
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38647
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT FOOTBALL
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38648
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT F1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38649
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT MAIN EVENT
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38650
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT MIX
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38651
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",KY SPORT PREMIER LEAGUE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38652
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="UNITED KINGDOM",EIR SPORT 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38653
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="UNITED KINGDOM",EIR SPORT 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38654
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="UNITED KINGDOM",EUROSPORT 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38655
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="UNITED KINGDOM",EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38656
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",##  ITV UK  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38657
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="UNITED KINGDOM",ITV 1 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38658
+#EXTINF:0 tvg-id="ITV2.uk" group-title="UNITED KINGDOM",ITV 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38659
+#EXTINF:0 tvg-id="ITV3.uk" group-title="UNITED KINGDOM",ITV 3 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38660
+#EXTINF:0 tvg-id="ITV4.uk" group-title="UNITED KINGDOM",ITV 4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38661
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="UNITED KINGDOM",ITV BE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38662
+#EXTINF:0 tvg-id="ITVEncore.uk" group-title="UNITED KINGDOM",ITV ENCORE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38663
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",ITV LONDON HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38664
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",## GENERALUK  ##
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38665
+#EXTINF:0 tvg-id="5star.uk" group-title="UNITED KINGDOM",5STAR
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38666
+#EXTINF:0 tvg-id="Alibi.uk" group-title="UNITED KINGDOM",ALIBI HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38667
+#EXTINF:0 tvg-id="AMC.uk" group-title="UNITED KINGDOM",AMC
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38668
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="UNITED KINGDOM",BLAZE
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38669
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="UNITED KINGDOM",CW HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38670
+#EXTINF:0 tvg-id="Dave.uk" group-title="UNITED KINGDOM",DAVE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38671
+#EXTINF:0 tvg-id="E4.uk" group-title="UNITED KINGDOM",E4 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38672
+#EXTINF:0 tvg-id="Eden.uk" group-title="UNITED KINGDOM",EDEN HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38673
+#EXTINF:0 tvg-id="GOLDPlus1.uk" group-title="UNITED KINGDOM",Gold Plus 1
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38674
+#EXTINF:0 tvg-id="GoodFood.uk" group-title="UNITED KINGDOM",GOOD FOOD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38675
+#EXTINF:0 tvg-id="H2.uk" group-title="UNITED KINGDOM",HISTORY 2 HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38676
+#EXTINF:0 tvg-id="History.uk" group-title="UNITED KINGDOM",HISTORY HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38677
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="UNITED KINGDOM",Home & Health
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38678
+#EXTINF:0 tvg-id="Investigation.uk" group-title="UNITED KINGDOM",INVESTIGATION DISCOVERY (ID)
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38679
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="UNITED KINGDOM",HORROR CHANNEL
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38680
+#EXTINF:0 tvg-id="Really.uk" group-title="UNITED KINGDOM",REALLY UK
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38685
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",RT AMERICA HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38686
+#EXTINF:0 tvg-id="RTEjr.uk" group-title="UNITED KINGDOM",RTE JUNIOR
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38687
+#EXTINF:0 tvg-id="ext" group-title="UNITED KINGDOM",RTE NEWS HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38688
+#EXTINF:0 tvg-id="RTE1.ie" group-title="UNITED KINGDOM",RTE ONE HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38689
+#EXTINF:0 tvg-id="RTE2.ie" group-title="UNITED KINGDOM",RTE TWO HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38690
+#EXTINF:0 tvg-id="Universal.uk" group-title="UNITED KINGDOM",UNIVERSAL HD
+http://dimapro.cz:8080/00:1A:79:17:00:04/nrvaabtbixxxx/38691
