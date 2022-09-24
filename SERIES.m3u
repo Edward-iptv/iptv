@@ -111,16 +111,16 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35752.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35820.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E10" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E10
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="[ Cultuur ]",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="[ Cultuur ]",History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="[ Cultuur ]",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[ Cultuur ]",History 2
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" group-title="[ Cultuur ]",History 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-id="" tvg-name="Bounce" tvg-logo="" group-title="[ Channels ]",Bounce
-ttp://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Voyager Documentaries" tvg-logo="" group-title="[ Cultuur ]",Voyager Documentaries
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-name="Vice" tvg-logo="" group-title="[ Channels ]",Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
@@ -131,6 +131,8 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comet" tvg-logo="" group-title="[ Channels ]",Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ConTV" tvg-logo="" group-title="[ Channels ]",Con TV
+#EXTINF:-1 tvg-id="" tvg-name="Con TV" tvg-logo="" group-title="[ Channels ]",Con TV
 https://contv-junction.cinedigm.com/ingest/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="NPO 1" tvg-logo="" group-title="[ Nederland ]",NPO 1
+http://red.ipfox.org:8080/osama2022/osama2023/49176
