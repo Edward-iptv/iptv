@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek DS9" tvg-logo="" group-title="[ Series ]",Star Trek DS9
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c1db0391ddd400073badc5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Voyager" tvg-logo="" group-title="[ Series ]",Star Trek Voyager
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c1979dfa307000070bbe4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek TNG" tvg-logo="" group-title="[ Series ]",Star Trek TNG
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI" tvg-logo="" group-title="[ Series ]",CSI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="" group-title="[ Series ]",CSI Miami
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62da7819be7a97000878eb92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="CSI New York" tvg-logo="" group-title="[ Series ]",CSI New York
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62da778fad95670007f610c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Hunter" tvg-logo="" group-title="[ Series ]",Hunter
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe4779de70007a6d1c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Andromeda" tvg-logo="" group-title="[ Series ]",Andromeda
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Gunsmoke" tvg-logo="" group-title="[ Series ]",Gunsmoke
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75771dfc72a00071fd0e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Pacific Blue" tvg-logo="" group-title="[ Series ]",Pacific Blue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192465a4527a900078717f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="TYT News" tvg-logo="" group-title="[ Nieuws ]",TYT News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBS News" tvg-logo="" group-title="[ Nieuws ]",CNBS News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="[ Nieuws ]",CNN
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Newsy" tvg-logo="" group-title="[ Nieuws ]",Newsy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV" tvg-logo="" group-title="[ Nieuws ]",Bloomberg TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="[ Nieuws ]",Sky News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS News" tvg-logo="" group-title="[ Nieuws ]",CBS News
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Impact Wrestling" tvg-logo="" group-title="[ Sport ]",Impact Wrestling
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Glory Kickboxing" tvg-logo="" group-title="[ Sport ]",Glory Kickboxing
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="[ Sport ]",Fox Sports
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Cops" tvg-logo="" group-title="[ Reality ]",Cops
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Gordon Ramsays Hells Kitchen" tvg-logo="" group-title="[ Reality ]",Gordon Ramsays Hells Kitchen
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Bar Rescue" tvg-logo="" group-title="[ Reality ]",Bar Rescue
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a3d889a5b3690008dc7fe8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+
+#EXTINF:-1 tvg-id="" tvg-name="Judge Judy" tvg-logo="" group-title="[ Reality ]",Judge Judy
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E01" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E01
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/22226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E02" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E02
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/22511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E03" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E03
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/22635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E04" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E04
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/23490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E05" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E05
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/23711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E06" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E06
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/23848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E07" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E07
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E08" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E08
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E09" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E09
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S01 E10" tvg-logo="" group-title="Star Trek Picard Season 01",Star Trek Picard S01 E10
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E01" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E01
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E02" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E02
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E03" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E03
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E04" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E04
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E05" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E05
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E06" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E06
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E07" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E07
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E08" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E08
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E09" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E09
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Picard S02 E10" tvg-logo="" group-title="Star Trek Picard Season 02",Star Trek Picard S02 E10
+http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" group-title="[ Cultuur ]",History
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="[ Cultuur ]",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[ Cultuur ]",History 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" tvg-name="Bounce" tvg-logo="" group-title="[ Channels ]",Bounce
+ttp://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vice" tvg-logo="" group-title="[ Channels ]",Vice
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Charge!" tvg-logo="" group-title="[ Channels ]",Charge!
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Comet" tvg-logo="" group-title="[ Channels ]",Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ConTV" tvg-logo="" group-title="[ Channels ]",Con TV
+https://contv-junction.cinedigm.com/ingest/playlist.m3u8
+
